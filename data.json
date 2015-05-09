@@ -1,0 +1,3864 @@
+{
+ "query": {
+  "count": 1,
+  "created": "2015-05-08T18:48:16Z",
+  "lang": "en-US",
+  "diagnostics": {
+   "publiclyCallable": "true",
+   "url": {
+    "execution-start-time": "18",
+    "execution-stop-time": "3122",
+    "execution-time": "3104",
+    "content": "http://egs.srch.ect.tw.g01.yahoodns.net:4080/v2/egs/srp.php?start=2&count=250&property=shopping&sortby=p&categorylv=0&categoryid=0&filters=ship_fast&keyword=ipad"
+   },
+   "javascript": {
+    "execution-start-time": "3",
+    "execution-stop-time": "3261",
+    "execution-time": "3257",
+    "instructions-used": "24",
+    "table-name": "search.ec"
+   },
+   "user-time": "3264",
+   "service-time": "3104",
+   "build-version": "0.2.100"
+  },
+  "results": {
+   "result": {
+    "total": "522",
+    "category": [
+     {
+      "ec_cat0": "3",
+      "id": "3",
+      "count": "367",
+      "catname": "電腦、週邊、軟體"
+     },
+     {
+      "ec_cat0": "4",
+      "id": "4",
+      "count": "135",
+      "catname": "相機、手機、耳機"
+     },
+     {
+      "ec_cat0": "8",
+      "id": "8",
+      "count": "11",
+      "catname": "精品手錶、珠寶配飾"
+     },
+     {
+      "ec_cat0": "5",
+      "id": "5",
+      "count": "7",
+      "catname": "家電、視聽、電玩"
+     },
+     {
+      "ec_cat0": "39",
+      "id": "39",
+      "count": "2",
+      "catname": "汽車、機車、GPS"
+     }
+    ],
+    "filterTag": "null",
+    "filterCluster": [
+     {
+      "ec_filtercluster": "包包",
+      "ec_image_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5005/st-5005237-s100.jpg",
+      "count": "5",
+      "real_count": "5"
+     },
+     {
+      "ec_filtercluster": "攝影背包",
+      "ec_image_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/3353/st-3353852-s100.jpg",
+      "count": "8",
+      "real_count": "8"
+     },
+     {
+      "ec_filtercluster": "皮夾",
+      "ec_image_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5104/st-5104915-s100.jpg",
+      "count": "1",
+      "real_count": "1"
+     },
+     {
+      "ec_filtercluster": "耳機",
+      "ec_image_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4062/st-4062220-s100.jpg",
+      "count": "999999",
+      "real_count": "27"
+     },
+     {
+      "ec_filtercluster": "行動電源",
+      "ec_image_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4130/st-4130934-s100.jpg",
+      "count": "999997",
+      "real_count": "4"
+     },
+     {
+      "ec_filtercluster": "音響家庭劇院",
+      "ec_image_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4418/st-4418857-s100.jpg",
+      "count": "1",
+      "real_count": "1"
+     }
+    ],
+    "brandCluster": "null",
+    "catInfo": {
+     "parent": "-1",
+     "level": "0",
+     "id": "0",
+     "name": "全站"
+    },
+    "catTree": "0",
+    "seller": "null",
+    "matchStore": "null",
+    "hits": [
+     {
+      "ec_productid": "5750749",
+      "ec_price": "149.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "支援IOS7,可傳輸充電",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5750/st-5750749-s400.jpg",
+      "ec_starttime": "1425631740",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5750749",
+      "ec_title": "Kamera 轉接頭 for Micro USB轉Lightning",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5750/st-5750749-s400.jpg"
+     },
+     {
+      "ec_productid": "5638625",
+      "ec_price": "169.0",
+      "ec_listprice": "249.0",
+      "ec_hotsale_title": "三段式簡易平板支架",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5638/st-5638625-s400.jpg",
+      "ec_starttime": "1420473540",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5638625",
+      "ec_title": "BSTAR 平板/電子書/iPad 專用立架 BS-ST01",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5638/st-5638625-s400.jpg"
+     },
+     {
+      "ec_productid": "5670075",
+      "ec_price": "175.0",
+      "ec_listprice": "390.0",
+      "ec_hotsale_title": "攝影機鏡頭保護 防刮",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5670/st-5670075-s400.jpg",
+      "ec_starttime": "1421818680",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5670075",
+      "ec_title": "iPad Air 攝影機鏡頭專用光學顯影保護膜-贈拭鏡布",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5670/st-5670075-s400.jpg"
+     },
+     {
+      "ec_productid": "5702355",
+      "ec_price": "187.0",
+      "ec_listprice": "490.0",
+      "ec_hotsale_title": "支援Apple iOS8",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5702/st-5702355-s400.jpg",
+      "ec_starttime": "1423127340",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5702355",
+      "ec_title": "LineQ 二合一傳輸充電扁線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5702/st-5702355-s400.jpg"
+     },
+     {
+      "ec_productid": "5557339",
+      "ec_price": "188.0",
+      "ec_listprice": "580.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5557/st-5557339-s400.jpg",
+      "ec_starttime": "1419523200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5557339",
+      "ec_title": "LineQ Apple iPad Air 2 噴砂PC背蓋-(透白)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5557/st-5557339-s400.jpg"
+     },
+     {
+      "ec_productid": "5587979",
+      "ec_price": "189.0",
+      "ec_listprice": "390.0",
+      "ec_hotsale_title": "時尚必備傳輸線",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5587/st-5587979-s400.jpg",
+      "ec_starttime": "1418091540",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5587979",
+      "ec_title": "SCJ_ iPhone5/5s/5c傳輸/充電 線_土豪金",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5587/st-5587979-s400.jpg"
+     },
+     {
+      "ec_productid": "4914209",
+      "ec_price": "189.0",
+      "ec_listprice": "299.0",
+      "ec_hotsale_title": "超速傳輸",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4914/st-4914209-s400.jpg",
+      "ec_starttime": "1416542400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4914209",
+      "ec_title": "SCJ_ iPhone5/5s/5c傳輸/充電 線_土豪金",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4914/st-4914209-s400.jpg"
+     },
+     {
+      "ec_productid": "5681853",
+      "ec_price": "190.0",
+      "ec_listprice": "380.0",
+      "ec_hotsale_title": "ipad mini 專用收納包",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5681/st-5681853-s400.jpg",
+      "ec_starttime": "1422342360",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5681853",
+      "ec_title": "iPad mini 1 2 3 專用 直式便利包 便利袋 電腦包 收納袋",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5681/st-5681853-s400.jpg"
+     },
+     {
+      "ec_productid": "5794676",
+      "ec_price": "190.0",
+      "ec_listprice": "460.0",
+      "ec_hotsale_title": "充電傳輸線1入",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5794/st-5794676-s400.jpg",
+      "ec_starttime": "1417066680",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5794676",
+      "ec_title": "iPhone 5 5s 5c Lightning to USB 傳輸充電線 一入",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5794/st-5794676-s400.jpg"
+     },
+     {
+      "ec_productid": "5400219",
+      "ec_price": "190.0",
+      "ec_listprice": "590.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5400/st-5400219-s400.jpg",
+      "ec_starttime": "1408353840",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5400219",
+      "ec_title": "LineQ Micro USB /Apple 8pin雙用2.1A傳輸充電線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5400/st-5400219-s400.jpg"
+     },
+     {
+      "ec_productid": "4771687",
+      "ec_price": "198.0",
+      "ec_listprice": "890.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4771/st-4771687-s400.jpg",
+      "ec_starttime": "1384929840",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4771687",
+      "ec_title": "Cooyee Apple iPad Air霧面螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4771/st-4771687-s400.jpg"
+     },
+     {
+      "ec_productid": "5823913",
+      "ec_price": "199.0",
+      "ec_listprice": "599.0",
+      "ec_hotsale_title": "限時優惠中",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5823/st-5823913-s400.jpg",
+      "ec_starttime": "1429250400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5823913",
+      "ec_title": "飛利浦 Apple 30pin USB充電線 1M (DLC2427)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5823/st-5823913-s400.jpg"
+     },
+     {
+      "ec_productid": "5488204",
+      "ec_price": "199.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5488/st-5488204-s400.jpg",
+      "ec_starttime": "1414684800",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5488204",
+      "ec_title": "迷你車充轉USB 2PORT充電器",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5488/st-5488204-s400.jpg"
+     },
+     {
+      "ec_productid": "5625285",
+      "ec_price": "199.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5625/st-5625285-s400.jpg",
+      "ec_starttime": "1409535420",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5625285",
+      "ec_title": "iPad mini 3/2/1代 高透光螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5625/st-5625285-s400.jpg"
+     },
+     {
+      "ec_productid": "5780229",
+      "ec_price": "199.0",
+      "ec_listprice": "580.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5780/st-5780229-s400.jpg",
+      "ec_starttime": "1427101620",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5780229",
+      "ec_title": "LineQ 二合一LED藍光傳輸充電線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5780/st-5780229-s400.jpg"
+     },
+     {
+      "ec_productid": "4865251",
+      "ec_price": "199.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4865/st-4865251-s400.jpg",
+      "ec_starttime": "1414739760",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4865251",
+      "ec_title": "Apple iPhone 5/5S/5C / iPad mini 金屬色充電傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4865/st-4865251-s400.jpg"
+     },
+     {
+      "ec_productid": "4771567",
+      "ec_price": "199.0",
+      "ec_listprice": "590.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4771/st-4771567-s400.jpg",
+      "ec_starttime": "1416499200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4771567",
+      "ec_title": "LineQ Apple Lightning 8pin土豪金傳輸充電線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4771/st-4771567-s400.jpg"
+     },
+     {
+      "ec_productid": "5714498",
+      "ec_price": "199.0",
+      "ec_listprice": "398.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5714/st-5714498-s400.jpg",
+      "ec_starttime": "1423206780",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5714498",
+      "ec_title": "A-Surpriz 純色素雅針織保暖觸控手套(多色選)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5714/st-5714498-s400.jpg"
+     },
+     {
+      "ec_productid": "4882626",
+      "ec_price": "199.0",
+      "ec_listprice": "490.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4882/st-4882626-s400.jpg",
+      "ec_starttime": "1388990520",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4882626",
+      "ec_title": "T2 iPad Air TPU保護殼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4882/st-4882626-s400.jpg"
+     },
+     {
+      "ec_productid": "5670074",
+      "ec_price": "199.0",
+      "ec_listprice": "420.0",
+      "ec_hotsale_title": "攝影機鏡頭保護 防刮",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5670/st-5670074-s400.jpg",
+      "ec_starttime": "1421818680",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5670074",
+      "ec_title": "iPad Air 2 攝影機鏡頭專用光學顯影保護膜-贈拭鏡布",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5670/st-5670074-s400.jpg"
+     },
+     {
+      "ec_productid": "4861915",
+      "ec_price": "199.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "金屬新色。百搭登場",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4861/st-4861915-s400.jpg",
+      "ec_starttime": "1416628800",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4861915",
+      "ec_title": "Apple iPhone 5/5S/5C / iPad mini 金屬色充電傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4861/st-4861915-s400.jpg"
+     },
+     {
+      "ec_productid": "5374135",
+      "ec_price": "199.0",
+      "ec_listprice": "599.0",
+      "ec_hotsale_title": "iPhone5_iPad mini專用",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5374/st-5374135-s400.jpg",
+      "ec_starttime": "1409932740",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5374135",
+      "ec_title": "iBRIDGE iPhone5/iPad mini專用 繽紛USB充電傳輸扁線(1M)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5374/st-5374135-s400.jpg"
+     },
+     {
+      "ec_productid": "5681855",
+      "ec_price": "210.0",
+      "ec_listprice": "390.0",
+      "ec_hotsale_title": "收納 保護推薦款",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5681/st-5681855-s400.jpg",
+      "ec_starttime": "1422342360",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5681855",
+      "ec_title": "iPad 1 2 3 4 專用 直式便利包 便利袋 電腦包 收納袋",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5681/st-5681855-s400.jpg"
+     },
+     {
+      "ec_productid": "5681847",
+      "ec_price": "210.0",
+      "ec_listprice": "390.0",
+      "ec_hotsale_title": "收納 保護推薦款",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5681/st-5681847-s400.jpg",
+      "ec_starttime": "1414566360",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5681847",
+      "ec_title": "10吋以下 ASUS ACER Samsung iPad 平板電腦 數位相框 直式便利包",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5681/st-5681847-s400.jpg"
+     },
+     {
+      "ec_productid": "5725032",
+      "ec_price": "239.0",
+      "ec_listprice": "800.0",
+      "ec_hotsale_title": "3USB超大電流 輕巧迷你好攜帶",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5725/st-5725032-s400.jpg",
+      "ec_starttime": "1423828800",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5725032",
+      "ec_title": "Unii 5.1A高速3USB車用充電器(iPad也可充)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5725/st-5725032-s400.jpg"
+     },
+     {
+      "ec_productid": "4154475",
+      "ec_price": "239.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "垂直入式耳塞設計",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4154/st-4154475-s400.jpg",
+      "ec_starttime": "1375974000",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4154475",
+      "ec_title": "iPhone/iPod/iPad系列 垂直入耳式立體耳機麥克風(含線控)-白",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4154/st-4154475-s400.jpg"
+     },
+     {
+      "ec_productid": "4872298",
+      "ec_price": "248.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "抗油汙指印不殘留",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4872/st-4872298-s400.jpg",
+      "ec_starttime": "1386148080",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4872298",
+      "ec_title": "iPad Mini 2/iPad Mini Retina 晶亮超透螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4872/st-4872298-s400.jpg"
+     },
+     {
+      "ec_productid": "4314165",
+      "ec_price": "249.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "隨插即用，線長10CM輕巧易攜帶",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4314/st-4314165-s400.jpg",
+      "ec_starttime": "1422417600",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4314165",
+      "ec_title": "iPhone 5/iPad mini專用Lightning to USB充電傳輸線10cm",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4314/st-4314165-s400.jpg"
+     },
+     {
+      "ec_productid": "5302191",
+      "ec_price": "249.0",
+      "ec_listprice": "690.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5302/st-5302191-s400.jpg",
+      "ec_starttime": "1405581180",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5302191",
+      "ec_title": "LineQ 多功能瑞士刀一分三傳輸充電線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5302/st-5302191-s400.jpg"
+     },
+     {
+      "ec_productid": "5766870",
+      "ec_price": "249.0",
+      "ec_listprice": "788.0",
+      "ec_hotsale_title": "支援iOS8 編織耐拉長久使用",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5766/st-5766870-s400.jpg",
+      "ec_starttime": "1426470120",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5766870",
+      "ec_title": "HANG iPhone 6/6 PLUS/5S/AIR2等 金屬編織充電線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5766/st-5766870-s400.jpg"
+     },
+     {
+      "ec_productid": "4875462",
+      "ec_price": "249.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "ipad mini配件開跑!早鳥搶購中!",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4875/st-4875462-s400.jpg",
+      "ec_starttime": "1388644140",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4875462",
+      "ec_title": "Bravo-u iPad mini 高質量磨砂螢幕保護貼(霧面)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4875/st-4875462-s400.jpg"
+     },
+     {
+      "ec_productid": "4883227",
+      "ec_price": "249.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4883/st-4883227-s400.jpg",
+      "ec_starttime": "1389058860",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4883227",
+      "ec_title": "Bravo-u iPad mini 專業抗磨水晶螢幕保護貼(高清透亮)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4883/st-4883227-s400.jpg"
+     },
+     {
+      "ec_productid": "5643131",
+      "ec_price": "249.0",
+      "ec_listprice": "600.0",
+      "ec_hotsale_title": "兼容性強大 雙孔USB充電超便利",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5643/st-5643131-s400.jpg",
+      "ec_starttime": "1420788660",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5643131",
+      "ec_title": "KooPin 經典款 雙USB車充 2.1A快速車用充電器-iPad可充[快]",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5643/st-5643131-s400.jpg"
+     },
+     {
+      "ec_productid": "5767495",
+      "ec_price": "259.0",
+      "ec_listprice": "500.0",
+      "ec_hotsale_title": "手機沒電不用怕",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5767/st-5767495-s400.jpg",
+      "ec_starttime": "1426139520",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5767495",
+      "ec_title": "HOCAR iPhone4/iPad/iPod 專用USB 傳輸充電線(兩入)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5767/st-5767495-s400.jpg"
+     },
+     {
+      "ec_productid": "5444042",
+      "ec_price": "259.0",
+      "ec_listprice": "500.0",
+      "ec_hotsale_title": "手機沒電不用怕",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5444/st-5444042-s400.jpg",
+      "ec_starttime": "1416466800",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5444042",
+      "ec_title": "HOCAR iPhone4/iPad/iPod 專用USB 傳輸充電線(兩入)-[快]",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5444/st-5444042-s400.jpg"
+     },
+     {
+      "ec_productid": "5557340",
+      "ec_price": "259.0",
+      "ec_listprice": "690.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5557/st-5557340-s400.jpg",
+      "ec_starttime": "1417104000",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5557340",
+      "ec_title": "LineQ Apple iPad Air 2 TPU透明背蓋",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5557/st-5557340-s400.jpg"
+     },
+     {
+      "ec_productid": "5499095",
+      "ec_price": "268.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5499/st-5499095-s400.jpg",
+      "ec_starttime": "1415962800",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5499095",
+      "ec_title": "[快]YARK椅背iPad收納置物袋2262",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5499/st-5499095-s400.jpg"
+     },
+     {
+      "ec_productid": "5849449",
+      "ec_price": "269.0",
+      "ec_listprice": "450.0",
+      "ec_hotsale_title": "金屬色彩 時尚搭配首選",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5849/st-5849449-s400.jpg",
+      "ec_starttime": "1429594680",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5849449",
+      "ec_title": "GOLF USB 2.0 轉  Apple 8Pin 網狀編織充電傳輸線(1M)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5849/st-5849449-s400.jpg"
+     },
+     {
+      "ec_productid": "3720688",
+      "ec_price": "269.0",
+      "ec_listprice": "369.0",
+      "ec_hotsale_title": "創新寬扁線設計",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/3720/st-3720688-s400.jpg",
+      "ec_starttime": "1427947200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=3720688",
+      "ec_title": "iPhone/iPod/iPad系列 多彩 USB 充電/傳輸 寬扁線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/3720/st-3720688-s400.jpg"
+     },
+     {
+      "ec_productid": "4952127",
+      "ec_price": "288.0",
+      "ec_listprice": "1200.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4952/st-4952127-s400.jpg",
+      "ec_starttime": "1392343980",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4952127",
+      "ec_title": "LineQ Apple iPad Air 前磁扣式雙色皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4952/st-4952127-s400.jpg"
+     },
+     {
+      "ec_productid": "5849451",
+      "ec_price": "288.0",
+      "ec_listprice": "488.0",
+      "ec_hotsale_title": "不怕弄丟轉接頭 簡單變換一線搞定",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5849/st-5849451-s400.jpg",
+      "ec_starttime": "1429594680",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5849451",
+      "ec_title": "GOLF Apple 8Pin / Mirco USB 二合一高速傳輸充電線(1M)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5849/st-5849451-s400.jpg"
+     },
+     {
+      "ec_productid": "5877343",
+      "ec_price": "290.0",
+      "ec_listprice": "290.0",
+      "ec_hotsale_title": "0,13mm超薄",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5877/st-5877343-s400.jpg",
+      "ec_starttime": "1430985420",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5877343",
+      "ec_title": "TUNEWEAR TUNEFILM iPad mini 1/2/3 保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5877/st-5877343-s400.jpg"
+     },
+     {
+      "ec_productid": "5574506",
+      "ec_price": "290.0",
+      "ec_listprice": "600.0",
+      "ec_hotsale_title": "高硬抗刮觸感超咕溜 , 日本原膜台灣製",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5574/st-5574506-s400.jpg",
+      "ec_starttime": "1417795200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5574506",
+      "ec_title": "D&A APPLE iPad Air / Air2專用日本AAA頂級螢幕保護貼(鏡面抗刮)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5574/st-5574506-s400.jpg"
+     },
+     {
+      "ec_productid": "5574510",
+      "ec_price": "299.0",
+      "ec_listprice": "600.0",
+      "ec_hotsale_title": "高硬抗刮觸感超咕溜 , 日本原膜台灣製",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5574/st-5574510-s400.jpg",
+      "ec_starttime": "1417795200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5574510",
+      "ec_title": "D&A APPLE iPad mini 1/2/3 專用日本頂級HC螢幕保護貼(鏡面抗刮)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5574/st-5574510-s400.jpg"
+     },
+     {
+      "ec_productid": "5707553",
+      "ec_price": "299.0",
+      "ec_listprice": "488.0",
+      "ec_hotsale_title": "通過Apple原廠認證發光線",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5707/st-5707553-s400.jpg",
+      "ec_starttime": "1423211700",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5707553",
+      "ec_title": "Power4 WPL0009 Apple流動發光傳輸線-快",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5707/st-5707553-s400.jpg"
+     },
+     {
+      "ec_productid": "4130361",
+      "ec_price": "299.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "捲線式設計好收納",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4130/st-4130361-s400.jpg",
+      "ec_starttime": "1417190400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4130361",
+      "ec_title": "iPhone 5 / iPad mini USB充電傳輸伸縮捲線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4130/st-4130361-s400.jpg"
+     },
+     {
+      "ec_productid": "5615930",
+      "ec_price": "299.0",
+      "ec_listprice": "299.0",
+      "ec_hotsale_title": "開學季★全面79折起+\"搗蛋怪獸\"虛寶卡",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5615/st-5615930-s400.jpg",
+      "ec_starttime": "1415689560",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5615930",
+      "ec_title": "★E-books C032 智慧手機專用耳機",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5615/st-5615930-s400.jpg"
+     },
+     {
+      "ec_productid": "5476263",
+      "ec_price": "299.0",
+      "ec_listprice": "499.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5476/st-5476263-s400.jpg",
+      "ec_starttime": "1413799020",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5476263",
+      "ec_title": "INTOPIC 廣鼎-頸掛式鋁合金耳機麥克風 JAZZ-I67",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5476/st-5476263-s400.jpg"
+     },
+     {
+      "ec_productid": "5772989",
+      "ec_price": "299.0",
+      "ec_listprice": "788.0",
+      "ec_hotsale_title": "支援iOS8 編織耐拉長久使用",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5772/st-5772989-s400.jpg",
+      "ec_starttime": "1426750920",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5772989",
+      "ec_title": "HANG iPhone 6/6 PLUS/5S/AIR2等 金屬編織充電線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5772/st-5772989-s400.jpg"
+     },
+     {
+      "ec_productid": "5717849",
+      "ec_price": "299.0",
+      "ec_listprice": "899.0",
+      "ec_hotsale_title": "磁扣設計 可橫立",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5717/st-5717849-s400.jpg",
+      "ec_starttime": "1423659300",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5717849",
+      "ec_title": "LEXMA iPad mini 都會經典時尚系列皮套-快",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5717/st-5717849-s400.jpg"
+     },
+     {
+      "ec_productid": "4107849",
+      "ec_price": "299.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "捲線式設計好收納",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4107/st-4107849-s400.jpg",
+      "ec_starttime": "1414490400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4107849",
+      "ec_title": "iPhone 5 / iPad mini USB充電傳輸伸縮捲線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4107/st-4107849-s400.jpg"
+     },
+     {
+      "ec_productid": "5712075",
+      "ec_price": "299.0",
+      "ec_listprice": "800.0",
+      "ec_hotsale_title": "3USB超大電流 輕巧迷你好攜帶",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5712/st-5712075-s400.jpg",
+      "ec_starttime": "1423540800",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5712075",
+      "ec_title": "Unii 5.1A高速3USB車用充電器(iPad也可充)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5712/st-5712075-s400.jpg"
+     },
+     {
+      "ec_productid": "5694451",
+      "ec_price": "299.0",
+      "ec_listprice": "800.0",
+      "ec_hotsale_title": "輕巧迷你好攜帶 3USB方便充電",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5694/st-5694451-s400.jpg",
+      "ec_starttime": "1422948660",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5694451",
+      "ec_title": "Unii 5.1A高速3USB車用充電器 (iPad也可充)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5694/st-5694451-s400.jpg"
+     },
+     {
+      "ec_productid": "4872363",
+      "ec_price": "299.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "頂級高透亮面質感細膩!",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4872/st-4872363-s400.jpg",
+      "ec_starttime": "1388049240",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4872363",
+      "ec_title": "Bravo-u Apple New iPad(iPad3) 高質量水晶透亮螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4872/st-4872363-s400.jpg"
+     },
+     {
+      "ec_productid": "5791132",
+      "ec_price": "299.0",
+      "ec_listprice": "990.0",
+      "ec_hotsale_title": "三合一設計 傳輸沒煩惱",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5791/st-5791132-s400.jpg",
+      "ec_starttime": "1427871600",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5791132",
+      "ec_title": "GB 三合一 瑞士刀造型 多功能傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5791/st-5791132-s400.jpg"
+     },
+     {
+      "ec_productid": "5771223",
+      "ec_price": "299.0",
+      "ec_listprice": "990.0",
+      "ec_hotsale_title": "三合一設計 傳輸沒煩惱",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5771/st-5771223-s400.jpg",
+      "ec_starttime": "1426854240",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5771223",
+      "ec_title": "GB 三合一 多功能 瑞士刀造型  蘋果安卓雙用 傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5771/st-5771223-s400.jpg"
+     },
+     {
+      "ec_productid": "5856640",
+      "ec_price": "299.0",
+      "ec_listprice": "599.0",
+      "ec_hotsale_title": "第二代Apple發光傳輸線",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5856/st-5856640-s400.jpg",
+      "ec_starttime": "1430134020",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5856640",
+      "ec_title": "Power4 Apple傳輸流動發光線(第二代)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5856/st-5856640-s400.jpg"
+     },
+     {
+      "ec_productid": "5806516",
+      "ec_price": "299.0",
+      "ec_listprice": "599.0",
+      "ec_hotsale_title": "高效傳輸  極速充電",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5806/st-5806516-s400.jpg",
+      "ec_starttime": "1414738260",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5806516",
+      "ec_title": "iStyle iPhone6/Micro LED二合一繽紛充電傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5806/st-5806516-s400.jpg"
+     },
+     {
+      "ec_productid": "4872364",
+      "ec_price": "299.0",
+      "ec_listprice": "399.0",
+      "ec_hotsale_title": "平光磨砂霧面質感細膩!",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4872/st-4872364-s400.jpg",
+      "ec_starttime": "1388047260",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4872364",
+      "ec_title": "Bravo-u Apple New iPad(iPad3) 完美質感磨砂霧面螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4872/st-4872364-s400.jpg"
+     },
+     {
+      "ec_productid": "4914443",
+      "ec_price": "299.0",
+      "ec_listprice": "900.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4914/st-4914443-s400.jpg",
+      "ec_starttime": "1389857820",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4914443",
+      "ec_title": "LineQ Apple iPad mini2 摺疊皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4914/st-4914443-s400.jpg"
+     },
+     {
+      "ec_productid": "5794679",
+      "ec_price": "299.0",
+      "ec_listprice": "990.0",
+      "ec_hotsale_title": "三合一設計 傳輸沒煩惱",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5794/st-5794679-s400.jpg",
+      "ec_starttime": "1427860800",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5794679",
+      "ec_title": "GB 三合一 多功能 瑞士刀造型  蘋果安卓雙用 傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5794/st-5794679-s400.jpg"
+     },
+     {
+      "ec_productid": "5574508",
+      "ec_price": "320.0",
+      "ec_listprice": "700.0",
+      "ec_hotsale_title": "防眼睛疲勞防指紋 , 日本原膜台灣製",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5574/st-5574508-s400.jpg",
+      "ec_starttime": "1417795200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5574508",
+      "ec_title": "D&A APPLE iPad Air / Air2 專用日本頂級AG螢幕保護貼(霧面防眩)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5574/st-5574508-s400.jpg"
+     },
+     {
+      "ec_productid": "5574509",
+      "ec_price": "329.0",
+      "ec_listprice": "700.0",
+      "ec_hotsale_title": "防眼睛疲勞防指紋 , 日本原膜台灣製",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5574/st-5574509-s400.jpg",
+      "ec_starttime": "1417795200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5574509",
+      "ec_title": "D&A APPLE iPad mini 1/2/3 專用日本頂級AG螢幕保護貼(霧面防眩)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5574/st-5574509-s400.jpg"
+     },
+     {
+      "ec_productid": "5605508",
+      "ec_price": "345.0",
+      "ec_listprice": "1680.0",
+      "ec_hotsale_title": "低晶點 抗指紋 潔淨度佳",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5605/st-5605508-s400.jpg",
+      "ec_starttime": "1418601120",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5605508",
+      "ec_title": "PHOENIX 高流速 iPad mini 3 專用 防眩 霧型螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5605/st-5605508-s400.jpg"
+     },
+     {
+      "ec_productid": "4911544",
+      "ec_price": "349.0",
+      "ec_listprice": "699.0",
+      "ec_hotsale_title": "★通過標準檢驗局安規認證★",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4911/st-4911544-s400.jpg",
+      "ec_starttime": "1390532100",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4911544",
+      "ec_title": "HANG iPHONE5/5S/IPAD mini 高效1A輸出旅充線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4911/st-4911544-s400.jpg"
+     },
+     {
+      "ec_productid": "5761789",
+      "ec_price": "349.0",
+      "ec_listprice": "899.0",
+      "ec_hotsale_title": "7折優惠價",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5761/st-5761789-s400.jpg",
+      "ec_starttime": "1426737600",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5761789",
+      "ec_title": "PHILIPS 2.1A USB旅行用高效能充電器 DLP2232",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5761/st-5761789-s400.jpg"
+     },
+     {
+      "ec_productid": "5625286",
+      "ec_price": "349.0",
+      "ec_listprice": "699.0",
+      "ec_hotsale_title": "防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5625/st-5625286-s400.jpg",
+      "ec_starttime": "1409535420",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5625286",
+      "ec_title": "iPad mini 3/2/1代 高硬度鋼化玻璃螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5625/st-5625286-s400.jpg"
+     },
+     {
+      "ec_productid": "5476262",
+      "ec_price": "349.0",
+      "ec_listprice": "499.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5476/st-5476262-s400.jpg",
+      "ec_starttime": "1413795300",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5476262",
+      "ec_title": "INTOPIC 廣鼎-全功能型鋁合金耳機麥克風 JAZZ-I66",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5476/st-5476262-s400.jpg"
+     },
+     {
+      "ec_productid": "5637504",
+      "ec_price": "349.0",
+      "ec_listprice": "890.0",
+      "ec_hotsale_title": "雙孔USB兼容性強大",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5637/st-5637504-s400.jpg",
+      "ec_starttime": "1420702260",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5637504",
+      "ec_title": "KooPin iPad Air2/mini3 經典款雙USB車充組(頭+線)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5637/st-5637504-s400.jpg"
+     },
+     {
+      "ec_productid": "5859516",
+      "ec_price": "350.0",
+      "ec_listprice": "620.0",
+      "ec_hotsale_title": "高透晶亮感 延展性高 不易變型",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5859/st-5859516-s400.jpg",
+      "ec_starttime": "1430291640",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5859516",
+      "ec_title": "iPad mini 3 超耐塑晶漾高硬度(薄)背殼 透明硬殼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5859/st-5859516-s400.jpg"
+     },
+     {
+      "ec_productid": "5859517",
+      "ec_price": "350.0",
+      "ec_listprice": "620.0",
+      "ec_hotsale_title": "高透晶亮感 延展性高 不易變型",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5859/st-5859517-s400.jpg",
+      "ec_starttime": "1430291640",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5859517",
+      "ec_title": "iPad mini 2 超耐塑晶漾高硬度(薄)背殼 透明硬殼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5859/st-5859517-s400.jpg"
+     },
+     {
+      "ec_productid": "5525728",
+      "ec_price": "379.0",
+      "ec_listprice": "699.0",
+      "ec_hotsale_title": "加強版充電速度更快",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5525/st-5525728-s400.jpg",
+      "ec_starttime": "1415958240",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5525728",
+      "ec_title": "M-style iPhone 6 / 6 PLUS / 5S 1.5M 耐拉傳輸線[快]",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5525/st-5525728-s400.jpg"
+     },
+     {
+      "ec_productid": "4889797",
+      "ec_price": "379.0",
+      "ec_listprice": "700.0",
+      "ec_hotsale_title": "絕美六色齊發",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4889/st-4889797-s400.jpg",
+      "ec_starttime": "1389755640",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4889797",
+      "ec_title": "HOCAR iPHONE 5S 繽紛馬卡龍雙USB車充組合",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4889/st-4889797-s400.jpg"
+     },
+     {
+      "ec_productid": "5526771",
+      "ec_price": "379.0",
+      "ec_listprice": "699.0",
+      "ec_hotsale_title": "加強版充電速度更快",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5526/st-5526771-s400.jpg",
+      "ec_starttime": "1417665600",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5526771",
+      "ec_title": "M-style iPhone 6 / 6 PLUS / 5S 1.5M 耐拉傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5526/st-5526771-s400.jpg"
+     },
+     {
+      "ec_productid": "5476264",
+      "ec_price": "379.0",
+      "ec_listprice": "599.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5476/st-5476264-s400.jpg",
+      "ec_starttime": "1413791280",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5476264",
+      "ec_title": "INTOPIC 廣鼎-高質感鋁合金耳機麥克風 JAZZ-I65",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5476/st-5476264-s400.jpg"
+     },
+     {
+      "ec_productid": "5605506",
+      "ec_price": "385.0",
+      "ec_listprice": "1680.0",
+      "ec_hotsale_title": "日本高亮度 銀河膜",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5605/st-5605506-s400.jpg",
+      "ec_starttime": "1418601120",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5605506",
+      "ec_title": "PHOENIX 高流速 iPad mini 3 專用 銀河膜 亮粉型 螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5605/st-5605506-s400.jpg"
+     },
+     {
+      "ec_productid": "4260085",
+      "ec_price": "388.0",
+      "ec_listprice": "499.0",
+      "ec_hotsale_title": "適用所有點菸器插座",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4260/st-4260085-s400.jpg",
+      "ec_starttime": "1428984000",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4260085",
+      "ec_title": "iPhone 5 / iPad mini 車用8pin充電線-1A",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4260/st-4260085-s400.jpg"
+     },
+     {
+      "ec_productid": "5412866",
+      "ec_price": "390.0",
+      "ec_listprice": "980.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5412/st-5412866-s400.jpg",
+      "ec_starttime": "1417708800",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5412866",
+      "ec_title": "COLART Apple iPad mini / mini2 鋼化玻璃螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5412/st-5412866-s400.jpg"
+     },
+     {
+      "ec_productid": "5877347",
+      "ec_price": "390.0",
+      "ec_listprice": "390.0",
+      "ec_hotsale_title": "贈原廠保護貼",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5877/st-5877347-s400.jpg",
+      "ec_starttime": "1430985420",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5877347",
+      "ec_title": "TUNEWEAR SOFTSHELL iPad mini 1/2/3保護殼(黑)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5877/st-5877347-s400.jpg"
+     },
+     {
+      "ec_productid": "5877353",
+      "ec_price": "390.0",
+      "ec_listprice": "390.0",
+      "ec_hotsale_title": "柔韌堅固完整包覆",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5877/st-5877353-s400.jpg",
+      "ec_starttime": "1430985420",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5877353",
+      "ec_title": "TUNEWEAR SOFTSHELL new iPad 保護殼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5877/st-5877353-s400.jpg"
+     },
+     {
+      "ec_productid": "5051514",
+      "ec_price": "390.0",
+      "ec_listprice": "980.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5051/st-5051514-s400.jpg",
+      "ec_starttime": "1394678280",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5051514",
+      "ec_title": "LineQ  Apple iPad mini smart cover 保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5051/st-5051514-s400.jpg"
+     },
+     {
+      "ec_productid": "4980545",
+      "ec_price": "390.0",
+      "ec_listprice": "1180.0",
+      "ec_hotsale_title": "◤原價$1180↘現省$790◢",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4980/st-4980545-s400.jpg",
+      "ec_starttime": "1393380960",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4980545",
+      "ec_title": "LineQ Apple iPad mini２ 時尚超薄側掀皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4980/st-4980545-s400.jpg"
+     },
+     {
+      "ec_productid": "5877342",
+      "ec_price": "390.0",
+      "ec_listprice": "390.0",
+      "ec_hotsale_title": "超薄厚度0,9mm",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5877/st-5877342-s400.jpg",
+      "ec_starttime": "1430985420",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5877342",
+      "ec_title": "Tunewear Eggshell iPad mini 1/2/3 保護殼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5877/st-5877342-s400.jpg"
+     },
+     {
+      "ec_productid": "5605509",
+      "ec_price": "395.0",
+      "ec_listprice": "1280.0",
+      "ec_hotsale_title": "超硬度 保證不爆裂 媲美玻璃膜",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5605/st-5605509-s400.jpg",
+      "ec_starttime": "1418514720",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5605509",
+      "ec_title": "PHOENIX 高流速 iPad mini 3 專用 高硬度 亮面螢幕貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5605/st-5605509-s400.jpg"
+     },
+     {
+      "ec_productid": "5605525",
+      "ec_price": "395.0",
+      "ec_listprice": "1680.0",
+      "ec_hotsale_title": "低晶點 抗指紋 潔淨度佳",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5605/st-5605525-s400.jpg",
+      "ec_starttime": "1418601120",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5605525",
+      "ec_title": "PHOENIX 高流速 iPad Air 2 專用 防眩 霧型螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5605/st-5605525-s400.jpg"
+     },
+     {
+      "ec_productid": "5605507",
+      "ec_price": "395.0",
+      "ec_listprice": "1680.0",
+      "ec_hotsale_title": "護眼型 過濾有害藍光 SGS認證",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5605/st-5605507-s400.jpg",
+      "ec_starttime": "1418601120",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5605507",
+      "ec_title": "PHOENIX 高流速 iPad mini 3 專用 護眼型 濾藍光 螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5605/st-5605507-s400.jpg"
+     },
+     {
+      "ec_productid": "5807880",
+      "ec_price": "399.0",
+      "ec_listprice": "699.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5807/st-5807880-s400.jpg",
+      "ec_starttime": "1428057000",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5807880",
+      "ec_title": "PHILIPS 2.1A USB高效能充電器 DLP2232W",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5807/st-5807880-s400.jpg"
+     },
+     {
+      "ec_productid": "4987339",
+      "ec_price": "399.0",
+      "ec_listprice": "1280.0",
+      "ec_hotsale_title": "支援★最新版 iOS7★",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4987/st-4987339-s400.jpg",
+      "ec_starttime": "1416542400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4987339",
+      "ec_title": "電池王iPHONE 5/ 5S / 5C專用充電組 (旅充頭+充電傳輸線)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4987/st-4987339-s400.jpg"
+     },
+     {
+      "ec_productid": "4875461",
+      "ec_price": "399.0",
+      "ec_listprice": "500.0",
+      "ec_hotsale_title": "iPad Air 專用",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4875/st-4875461-s400.jpg",
+      "ec_starttime": "1384852860",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4875461",
+      "ec_title": "iPad Air 晶亮抗刮磨砂霧面螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4875/st-4875461-s400.jpg"
+     },
+     {
+      "ec_productid": "4752690",
+      "ec_price": "399.0",
+      "ec_listprice": "599.0",
+      "ec_hotsale_title": "USB插孔讓你手機、IPAD，通通搞定",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4752/st-4752690-s400.jpg",
+      "ec_starttime": "1376872140",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4752690",
+      "ec_title": "炫彩2A雙USB充電插座 (SD-22U)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4752/st-4752690-s400.jpg"
+     },
+     {
+      "ec_productid": "5725033",
+      "ec_price": "399.0",
+      "ec_listprice": "980.0",
+      "ec_hotsale_title": "3USB孔充電 超大電流",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5725/st-5725033-s400.jpg",
+      "ec_starttime": "1423828800",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5725033",
+      "ec_title": "Unii iPad Air 2/mini 2 3高速3USB車充組(頭+線)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5725/st-5725033-s400.jpg"
+     },
+     {
+      "ec_productid": "5682166",
+      "ec_price": "399.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "背蓋採TPU超軟材質",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5682/st-5682166-s400.jpg",
+      "ec_starttime": "1422430740",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5682166",
+      "ec_title": "LineQ Apple iPad Air2 smart cover TPU背蓋皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5682/st-5682166-s400.jpg"
+     },
+     {
+      "ec_productid": "4917233",
+      "ec_price": "399.0",
+      "ec_listprice": "1280.0",
+      "ec_hotsale_title": "支援★最新版 iOS7★",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4917/st-4917233-s400.jpg",
+      "ec_starttime": "1425355200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4917233",
+      "ec_title": "電池王iPHONE 5/ 5S / 5C專用充電組 (旅充頭+充電傳輸線)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4917/st-4917233-s400.jpg"
+     },
+     {
+      "ec_productid": "5264418",
+      "ec_price": "399.0",
+      "ec_listprice": "699.0",
+      "ec_hotsale_title": "滿足您隨時唱KTV的需求 !!",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5264/st-5264418-s400.jpg",
+      "ec_starttime": "1404983940",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5264418",
+      "ec_title": "ELEPHANT 思馬特多功能型麥克風(IPMIC-002)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5264/st-5264418-s400.jpg"
+     },
+     {
+      "ec_productid": "5346811",
+      "ec_price": "399.0",
+      "ec_listprice": "699.0",
+      "ec_hotsale_title": "BSMI認證，超值優惠價！",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5346/st-5346811-s400.jpg",
+      "ec_starttime": "1408723140",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5346811",
+      "ec_title": "iBRIDGE VIO Y-5200 輕巧時尚LED 行動電源",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5346/st-5346811-s400.jpg"
+     },
+     {
+      "ec_productid": "5720735",
+      "ec_price": "399.0",
+      "ec_listprice": "490.0",
+      "ec_hotsale_title": "可同時為三款3C產品充電",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5720/st-5720735-s400.jpg",
+      "ec_starttime": "1423129320",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5720735",
+      "ec_title": "doocoo 5.4A 3Ports 車用高速充電器",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5720/st-5720735-s400.jpg"
+     },
+     {
+      "ec_productid": "5436151",
+      "ec_price": "399.0",
+      "ec_listprice": "699.0",
+      "ec_hotsale_title": "送 Air 保護貼",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5436/st-5436151-s400.jpg",
+      "ec_starttime": "1411457340",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5436151",
+      "ec_title": "Apple 蘋果 iPad air smart cover case 休眠保護殼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5436/st-5436151-s400.jpg"
+     },
+     {
+      "ec_productid": "4885577",
+      "ec_price": "399.0",
+      "ec_listprice": "1280.0",
+      "ec_hotsale_title": "支援★最新版 iOS7★",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4885/st-4885577-s400.jpg",
+      "ec_starttime": "1410883140",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4885577",
+      "ec_title": "電池王iPHONE 5/ 5S / 5C專用充電組 (旅充頭+充電傳輸線)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4885/st-4885577-s400.jpg"
+     },
+     {
+      "ec_productid": "5717854",
+      "ec_price": "399.0",
+      "ec_listprice": "1580.0",
+      "ec_hotsale_title": "超輕薄義大利設計款",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5717/st-5717854-s400.jpg",
+      "ec_starttime": "1423638540",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5717854",
+      "ec_title": "LEXMA iPad Air 超輕薄保護皮套-快",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5717/st-5717854-s400.jpg"
+     },
+     {
+      "ec_productid": "5806447",
+      "ec_price": "399.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "Apple認證 限時優惠中",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5806/st-5806447-s400.jpg",
+      "ec_starttime": "1427339340",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5806447",
+      "ec_title": "飛利浦 Apple Lightning USB充電線 1M (DLC2404V)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5806/st-5806447-s400.jpg"
+     },
+     {
+      "ec_productid": "4912849",
+      "ec_price": "399.0",
+      "ec_listprice": "1599.0",
+      "ec_hotsale_title": "原價$999~限時下殺",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4912/st-4912849-s400.jpg",
+      "ec_starttime": "1389947820",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4912849",
+      "ec_title": "TDK CLEF-iSmart 高質感立體聲線控耳機 TH-ECSP300",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4912/st-4912849-s400.jpg"
+     },
+     {
+      "ec_productid": "5697404",
+      "ec_price": "399.0",
+      "ec_listprice": "980.0",
+      "ec_hotsale_title": "3USB孔充電 超大電流",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5697/st-5697404-s400.jpg",
+      "ec_starttime": "1422936000",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5697404",
+      "ec_title": "Unii iPhone 4S/iPad 2 3 高速3USB車充組(頭+線)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5697/st-5697404-s400.jpg"
+     },
+     {
+      "ec_productid": "5851653",
+      "ec_price": "399.0",
+      "ec_listprice": "580.0",
+      "ec_hotsale_title": "拉一下好方便",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5851/st-5851653-s400.jpg",
+      "ec_starttime": "1430193600",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5851653",
+      "ec_title": "iStyle iPhone6/5/iPad 彩色伸縮線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5851/st-5851653-s400.jpg"
+     },
+     {
+      "ec_productid": "5684129",
+      "ec_price": "399.0",
+      "ec_listprice": "699.0",
+      "ec_hotsale_title": "★超值好禮加購★",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5684/st-5684129-s400.jpg",
+      "ec_starttime": "1422601200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5684129",
+      "ec_title": "PHILIPS 2.1A 雙USB 車用充電器 DLP2257",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5684/st-5684129-s400.jpg"
+     },
+     {
+      "ec_productid": "5807883",
+      "ec_price": "399.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "Apple認證 限時優惠中",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5807/st-5807883-s400.jpg",
+      "ec_starttime": "1428057000",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5807883",
+      "ec_title": "飛利浦 Apple Lightning USB充電線 1M (DLC2404V)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5807/st-5807883-s400.jpg"
+     },
+     {
+      "ec_productid": "5535928",
+      "ec_price": "399.0",
+      "ec_listprice": "599.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5535/st-5535928-s400.jpg",
+      "ec_starttime": "1415931540",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5535928",
+      "ec_title": "INTOPIC 廣鼎-重低音鋁合金耳機麥克風 JAZZ-I69",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5535/st-5535928-s400.jpg"
+     },
+     {
+      "ec_productid": "4009782",
+      "ec_price": "399.0",
+      "ec_listprice": "1280.0",
+      "ec_hotsale_title": "《iphone5組合 通過BSMI》",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4009/st-4009782-s400.jpg",
+      "ec_starttime": "1409759940",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4009782",
+      "ec_title": "電池王 iPhone 5 /iPad mini充電組(旅充頭+充電傳輸線)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4009/st-4009782-s400.jpg"
+     },
+     {
+      "ec_productid": "5549502",
+      "ec_price": "399.0",
+      "ec_listprice": "980.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5549/st-5549502-s400.jpg",
+      "ec_starttime": "1416966120",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5549502",
+      "ec_title": "APPLE iPHONE 6 / 6 Plus專用車充組(傳輸線+雙孔車充頭)[]",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5549/st-5549502-s400.jpg"
+     },
+     {
+      "ec_productid": "5819414",
+      "ec_price": "399.0",
+      "ec_listprice": "599.0",
+      "ec_hotsale_title": "APPLE原廠認證",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5819/st-5819414-s400.jpg",
+      "ec_starttime": "1428653580",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5819414",
+      "ec_title": "Power4 WPL023 Apple 1米傳輸白充電線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5819/st-5819414-s400.jpg"
+     },
+     {
+      "ec_productid": "5656755",
+      "ec_price": "399.0",
+      "ec_listprice": "680.0",
+      "ec_hotsale_title": "體積小 功能強",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5656/st-5656755-s400.jpg",
+      "ec_starttime": "1414738260",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5656755",
+      "ec_title": "iStyle iPhone6/5/iPad 微笑發光伸縮線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5656/st-5656755-s400.jpg"
+     },
+     {
+      "ec_productid": "5402777",
+      "ec_price": "399.0",
+      "ec_listprice": "490.0",
+      "ec_hotsale_title": "可同時為三款3C產品充電",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5402/st-5402777-s400.jpg",
+      "ec_starttime": "1411380000",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5402777",
+      "ec_title": "[快] doocoo 5.4A 3Ports 車用高速充電器",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5402/st-5402777-s400.jpg"
+     },
+     {
+      "ec_productid": "4620919",
+      "ec_price": "399.0",
+      "ec_listprice": "599.0",
+      "ec_hotsale_title": "通過臺灣商檢局檢磁認證",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4620/st-4620919-s400.jpg",
+      "ec_starttime": "1380511680",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4620919",
+      "ec_title": "炫彩 SD-22U 2孔插座x2+雙USB埠 15A分接式插座",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4620/st-4620919-s400.jpg"
+     },
+     {
+      "ec_productid": "5638512",
+      "ec_price": "399.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5638/st-5638512-s400.jpg",
+      "ec_starttime": "1420473540",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5638512",
+      "ec_title": "ipad Air2/1(ipad6/5) 高硬度鋼化玻璃螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5638/st-5638512-s400.jpg"
+     },
+     {
+      "ec_productid": "5612791",
+      "ec_price": "420.0",
+      "ec_listprice": "650.0",
+      "ec_hotsale_title": "絲霧柔美 保護完備",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5612/st-5612791-s400.jpg",
+      "ec_starttime": "1419350400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5612791",
+      "ec_title": "iPad Air 2 絲霧水漾高硬度(薄)背殼 保護殼 背蓋",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5612/st-5612791-s400.jpg"
+     },
+     {
+      "ec_productid": "5838775",
+      "ec_price": "429.0",
+      "ec_listprice": "1080.0",
+      "ec_hotsale_title": "薄型透視愛機一覽無遺",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5838/st-5838775-s400.jpg",
+      "ec_starttime": "1429526820",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5838775",
+      "ec_title": "X mart Apple ipad mini 3/2/1 超薄清柔隱形保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5838/st-5838775-s400.jpg"
+     },
+     {
+      "ec_productid": "5711814",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711814-s400.jpg",
+      "ec_starttime": "1423742400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711814",
+      "ec_title": "DW-M42瘋馬紋變形金剛ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711814-s400.jpg"
+     },
+     {
+      "ec_productid": "5711807",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711807-s400.jpg",
+      "ec_starttime": "1425643200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711807",
+      "ec_title": "DW-M39拉絲紋支架ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711807-s400.jpg"
+     },
+     {
+      "ec_productid": "5798860",
+      "ec_price": "449.0",
+      "ec_listprice": "880.0",
+      "ec_hotsale_title": "支援最新版 iOS8",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5798/st-5798860-s400.jpg",
+      "ec_starttime": "1427798760",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5798860",
+      "ec_title": "WELLY iPad Air 2 / mini 2 3 專用雙孔USB旅充組",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5798/st-5798860-s400.jpg"
+     },
+     {
+      "ec_productid": "5711811",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711811-s400.jpg",
+      "ec_starttime": "1423742400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711811",
+      "ec_title": "DW-M41荔枝旋轉ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711811-s400.jpg"
+     },
+     {
+      "ec_productid": "5793375",
+      "ec_price": "449.0",
+      "ec_listprice": "890.0",
+      "ec_hotsale_title": "雙USB孔兼容性強大",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5793/st-5793375-s400.jpg",
+      "ec_starttime": "1427427060",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5793375",
+      "ec_title": "KooPin iPad Air 2/mini2 3專用超炫LED雙孔USB旅充組",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5793/st-5793375-s400.jpg"
+     },
+     {
+      "ec_productid": "5849038",
+      "ec_price": "449.0",
+      "ec_listprice": "599.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5849/st-5849038-s400.jpg",
+      "ec_starttime": "1429872960",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5849038",
+      "ec_title": "Buffalo APPLE Lightning 專用傳輸線(蘋果認證)-0.2M",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5849/st-5849038-s400.jpg"
+     },
+     {
+      "ec_productid": "5711813",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711813-s400.jpg",
+      "ec_starttime": "1423742400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711813",
+      "ec_title": "DW-M44閃粉吸合支架ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711813-s400.jpg"
+     },
+     {
+      "ec_productid": "5711815",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711815-s400.jpg",
+      "ec_starttime": "1423742400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711815",
+      "ec_title": "DW-M48波點支架ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711815-s400.jpg"
+     },
+     {
+      "ec_productid": "5711808",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711808-s400.jpg",
+      "ec_starttime": "1425643200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711808",
+      "ec_title": "DW-M37介綿支架ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711808-s400.jpg"
+     },
+     {
+      "ec_productid": "5795344",
+      "ec_price": "449.0",
+      "ec_listprice": "890.0",
+      "ec_hotsale_title": "雙USB孔兼容性強大",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5795/st-5795344-s400.jpg",
+      "ec_starttime": "1427441460",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5795344",
+      "ec_title": "KooPin iPad Air 2/mini2 3專用超炫LED雙孔USB旅充組",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5795/st-5795344-s400.jpg"
+     },
+     {
+      "ec_productid": "5793374",
+      "ec_price": "449.0",
+      "ec_listprice": "880.0",
+      "ec_hotsale_title": "支援最新版 iOS8",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5793/st-5793374-s400.jpg",
+      "ec_starttime": "1427453160",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5793374",
+      "ec_title": "WELLY iPad Air 2 / mini 2 3 專用雙孔USB旅充組",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5793/st-5793374-s400.jpg"
+     },
+     {
+      "ec_productid": "5711809",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711809-s400.jpg",
+      "ec_starttime": "1423742400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711809",
+      "ec_title": "DW-M40宮廷花支架ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711809-s400.jpg"
+     },
+     {
+      "ec_productid": "5711806",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711806-s400.jpg",
+      "ec_starttime": "1423742400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711806",
+      "ec_title": "DW-M38雙色支架ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711806-s400.jpg"
+     },
+     {
+      "ec_productid": "5711818",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711818-s400.jpg",
+      "ec_starttime": "1424966400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711818",
+      "ec_title": "DW-M46蠶絲紋ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711818-s400.jpg"
+     },
+     {
+      "ec_productid": "5711803",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711803-s400.jpg",
+      "ec_starttime": "1423742400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711803",
+      "ec_title": "DW-M34斜紋旋轉款ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711803-s400.jpg"
+     },
+     {
+      "ec_productid": "5711819",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711819-s400.jpg",
+      "ec_starttime": "1423742400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711819",
+      "ec_title": "DW-M33荔枝支架款ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711819-s400.jpg"
+     },
+     {
+      "ec_productid": "5711812",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711812-s400.jpg",
+      "ec_starttime": "1423742400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711812",
+      "ec_title": "DW-M49荔枝扣環旋轉ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711812-s400.jpg"
+     },
+     {
+      "ec_productid": "5711805",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711805-s400.jpg",
+      "ec_starttime": "1424966400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711805",
+      "ec_title": "DW-M36平滑支架款ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711805-s400.jpg"
+     },
+     {
+      "ec_productid": "5711804",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711804-s400.jpg",
+      "ec_starttime": "1423742400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711804",
+      "ec_title": "DW-M35波點旋轉款ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711804-s400.jpg"
+     },
+     {
+      "ec_productid": "5750824",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5750/st-5750824-s400.jpg",
+      "ec_starttime": "1425644280",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5750824",
+      "ec_title": "DW-M45十字紋三折支架ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5750/st-5750824-s400.jpg"
+     },
+     {
+      "ec_productid": "5711810",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711810-s400.jpg",
+      "ec_starttime": "1423742400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711810",
+      "ec_title": "DW-M43撞色支架ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711810-s400.jpg"
+     },
+     {
+      "ec_productid": "5711817",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711817-s400.jpg",
+      "ec_starttime": "1425643200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711817",
+      "ec_title": "DW-M45十字紋三折支架ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711817-s400.jpg"
+     },
+     {
+      "ec_productid": "5711816",
+      "ec_price": "449.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711816-s400.jpg",
+      "ec_starttime": "1423742400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5711816",
+      "ec_title": "DW-M47扣環支架ipad mini 3/2/1保護皮套(加贈螢幕保護貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5711/st-5711816-s400.jpg"
+     },
+     {
+      "ec_productid": "5636530",
+      "ec_price": "450.0",
+      "ec_listprice": "780.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5636/st-5636530-s400.jpg",
+      "ec_starttime": "1420473600",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5636530",
+      "ec_title": "Apple iPad Mini3 可立式水晶紋休眠皮套 + 保護貼 超值組合",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5636/st-5636530-s400.jpg"
+     },
+     {
+      "ec_productid": "5852490",
+      "ec_price": "450.0",
+      "ec_listprice": "580.0",
+      "ec_hotsale_title": "支援平板, 筆電",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5852/st-5852490-s400.jpg",
+      "ec_starttime": "1430129340",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5852490",
+      "ec_title": "i-rocks IR1360筆電/iPad/電子書專用拖架 (黑)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5852/st-5852490-s400.jpg"
+     },
+     {
+      "ec_productid": "4679877",
+      "ec_price": "450.0",
+      "ec_listprice": "580.0",
+      "ec_hotsale_title": "支援平板/ 筆電",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4679/st-4679877-s400.jpg",
+      "ec_starttime": "1379380380",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4679877",
+      "ec_title": "i-rocks IR1360筆電/iPad/電子書專用拖架 (黑)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4679/st-4679877-s400.jpg"
+     },
+     {
+      "ec_productid": "5612790",
+      "ec_price": "450.0",
+      "ec_listprice": "690.0",
+      "ec_hotsale_title": "高透晶亮感 延展性高 不易變型",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5612/st-5612790-s400.jpg",
+      "ec_starttime": "1419955200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5612790",
+      "ec_title": "iPad Air 2 超耐塑晶漾高硬度(薄)背殼 保護殼 背蓋",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5612/st-5612790-s400.jpg"
+     },
+     {
+      "ec_productid": "5549595",
+      "ec_price": "459.0",
+      "ec_listprice": "980.0",
+      "ec_hotsale_title": "輕巧好攜帶可充兩種",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5549/st-5549595-s400.jpg",
+      "ec_starttime": "1416966120",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5549595",
+      "ec_title": "HANG iPHONE 6 / 6  Plus 輕巧車充組(傳輸線+雙孔車充)[快]",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5549/st-5549595-s400.jpg"
+     },
+     {
+      "ec_productid": "4012708",
+      "ec_price": "459.0",
+      "ec_listprice": "800.0",
+      "ec_hotsale_title": "充電超快速， 超級組合",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4012/st-4012708-s400.jpg",
+      "ec_starttime": "1416812400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4012708",
+      "ec_title": "For iPhone 5 / iPad mini / iPad 4代 傳輸線+雙孔車充頭)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4012/st-4012708-s400.jpg"
+     },
+     {
+      "ec_productid": "5091993",
+      "ec_price": "479.0",
+      "ec_listprice": "2880.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5091/st-5091993-s400.jpg",
+      "ec_starttime": "1418918400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5091993",
+      "ec_title": "LineQ Apple iPad Air 鋼化玻璃螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5091/st-5091993-s400.jpg"
+     },
+     {
+      "ec_productid": "5605524",
+      "ec_price": "480.0",
+      "ec_listprice": "1680.0",
+      "ec_hotsale_title": "護眼型 過濾有害藍光 SGS認證",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5605/st-5605524-s400.jpg",
+      "ec_starttime": "1418601120",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5605524",
+      "ec_title": "PHOENIX 高流速 iPad Air 2 專用 護眼型 濾藍光 螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5605/st-5605524-s400.jpg"
+     },
+     {
+      "ec_productid": "5605527",
+      "ec_price": "480.0",
+      "ec_listprice": "1680.0",
+      "ec_hotsale_title": "超硬度 保證不爆裂 媲美玻璃膜",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5605/st-5605527-s400.jpg",
+      "ec_starttime": "1418514720",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5605527",
+      "ec_title": "PHOENIX 高流速 iPad Air 2 專用 高硬度 亮面螢幕貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5605/st-5605527-s400.jpg"
+     },
+     {
+      "ec_productid": "4960152",
+      "ec_price": "488.0",
+      "ec_listprice": "790.0",
+      "ec_hotsale_title": "支援 : PC/MAC/NB/iPad ",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4960/st-4960152-s400.jpg",
+      "ec_starttime": "1393207200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4960152",
+      "ec_title": "B.FRiEND 藍牙鍵盤(BT-300)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4960/st-4960152-s400.jpg"
+     },
+     {
+      "ec_productid": "5638586",
+      "ec_price": "490.0",
+      "ec_listprice": "780.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5638/st-5638586-s400.jpg",
+      "ec_starttime": "1420473540",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5638586",
+      "ec_title": "Apple iPad Air2 超薄蠶絲紋三折休眠皮套 + 保護貼 超值組合",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5638/st-5638586-s400.jpg"
+     },
+     {
+      "ec_productid": "5244781",
+      "ec_price": "490.0",
+      "ec_listprice": "590.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244781-s400.jpg",
+      "ec_starttime": "1403075760",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5244781",
+      "ec_title": "Adam Elements亞果元素Lightning 扁式傳輸線90cm",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244781-s400.jpg"
+     },
+     {
+      "ec_productid": "5625239",
+      "ec_price": "490.0",
+      "ec_listprice": "980.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5625/st-5625239-s400.jpg",
+      "ec_starttime": "1408430100",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5625239",
+      "ec_title": "Metal-Slim Apple ipad mini3 9H弧邊耐磨防指紋鋼化玻璃保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5625/st-5625239-s400.jpg"
+     },
+     {
+      "ec_productid": "5470638",
+      "ec_price": "490.0",
+      "ec_listprice": "1000.0",
+      "ec_hotsale_title": "不敗牛仔款",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5470/st-5470638-s400.jpg",
+      "ec_starttime": "1414080000",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5470638",
+      "ec_title": "Apple iPad mini / mini 2 Retina 率性牛仔皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5470/st-5470638-s400.jpg"
+     },
+     {
+      "ec_productid": "5758505",
+      "ec_price": "490.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5758/st-5758505-s400.jpg",
+      "ec_starttime": "1426129620",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5758505",
+      "ec_title": "LineQ Apple iPad Air2 Smart cover 三角折疊保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5758/st-5758505-s400.jpg"
+     },
+     {
+      "ec_productid": "5688140",
+      "ec_price": "490.0",
+      "ec_listprice": "1000.0",
+      "ec_hotsale_title": "智慧喚醒休眠",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5688/st-5688140-s400.jpg",
+      "ec_starttime": "1423569600",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5688140",
+      "ec_title": "VXTRA iPad mini 3 / mini 2 率性牛仔 超薄支架保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5688/st-5688140-s400.jpg"
+     },
+     {
+      "ec_productid": "5470635",
+      "ec_price": "490.0",
+      "ec_listprice": "1000.0",
+      "ec_hotsale_title": "不敗牛仔款",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5470/st-5470635-s400.jpg",
+      "ec_starttime": "1419955200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5470635",
+      "ec_title": "Apple New iPad / iPad 2 3 4 率性牛仔皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5470/st-5470635-s400.jpg"
+     },
+     {
+      "ec_productid": "5244778",
+      "ec_price": "490.0",
+      "ec_listprice": "590.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244778-s400.jpg",
+      "ec_starttime": "1399446480",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5244778",
+      "ec_title": "Adam Elements亞果元素 Lightning Cable 傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244778-s400.jpg"
+     },
+     {
+      "ec_productid": "5557342",
+      "ec_price": "490.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5557/st-5557342-s400.jpg",
+      "ec_starttime": "1417104000",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5557342",
+      "ec_title": "LineQ Apple iPad Air 2 Smart Cover摺疊保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5557/st-5557342-s400.jpg"
+     },
+     {
+      "ec_productid": "5625238",
+      "ec_price": "490.0",
+      "ec_listprice": "980.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5625/st-5625238-s400.jpg",
+      "ec_starttime": "1408430100",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5625238",
+      "ec_title": "Metal-Slim Apple ipad Air2 9H弧邊耐磨防指紋鋼化玻璃保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5625/st-5625238-s400.jpg"
+     },
+     {
+      "ec_productid": "5009155",
+      "ec_price": "490.0",
+      "ec_listprice": "980.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5009/st-5009155-s400.jpg",
+      "ec_starttime": "1394678280",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5009155",
+      "ec_title": "LineQ Apple New iPad smart cover 保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5009/st-5009155-s400.jpg"
+     },
+     {
+      "ec_productid": "5244779",
+      "ec_price": "490.0",
+      "ec_listprice": "590.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244779-s400.jpg",
+      "ec_starttime": "1403074980",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5244779",
+      "ec_title": "Adam Elements亞果元素 Lightning扁式收納傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244779-s400.jpg"
+     },
+     {
+      "ec_productid": "5882116",
+      "ec_price": "490.0",
+      "ec_listprice": "490.0",
+      "ec_hotsale_title": "超輕薄設計",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5882/st-5882116-s400.jpg",
+      "ec_starttime": "1431079440",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5882116",
+      "ec_title": "Hitobox SlimFolio iPad mini1/2/3  輕薄站立皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5882/st-5882116-s400.jpg"
+     },
+     {
+      "ec_productid": "5406526",
+      "ec_price": "490.0",
+      "ec_listprice": "1580.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5406/st-5406526-s400.jpg",
+      "ec_starttime": "1419955200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5406526",
+      "ec_title": "COLART Apple New iPad 鋼化玻璃螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5406/st-5406526-s400.jpg"
+     },
+     {
+      "ec_productid": "4141770",
+      "ec_price": "499.0",
+      "ec_listprice": "699.0",
+      "ec_hotsale_title": "iPhone專用",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4141/st-4141770-s400.jpg",
+      "ec_starttime": "1403519040",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4141770",
+      "ec_title": "aibo iPhone 5 / iPad mini 專用 原廠認證充電傳輸線(1M)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4141/st-4141770-s400.jpg"
+     },
+     {
+      "ec_productid": "5704559",
+      "ec_price": "499.0",
+      "ec_listprice": "490.0",
+      "ec_hotsale_title": "蘋果原廠MFI認證",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5704/st-5704559-s400.jpg",
+      "ec_starttime": "1423120740",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5704559",
+      "ec_title": "UniOne Apple Lightning USB Cable傳輸線(快)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5704/st-5704559-s400.jpg"
+     },
+     {
+      "ec_productid": "5655317",
+      "ec_price": "499.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5655/st-5655317-s400.jpg",
+      "ec_starttime": "1421173920",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5655317",
+      "ec_title": "DW-L79荔枝旋轉iPad Air2(iPad6)平板皮套(加贈螢幕貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5655/st-5655317-s400.jpg"
+     },
+     {
+      "ec_productid": "5688127",
+      "ec_price": "499.0",
+      "ec_listprice": "1000.0",
+      "ec_hotsale_title": "旋轉無上限 新色登場",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5688/st-5688127-s400.jpg",
+      "ec_starttime": "1422526260",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5688127",
+      "ec_title": "iPad Air 2 / iPad 6 喚醒休眠 直立側翻360度旋轉保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5688/st-5688127-s400.jpg"
+     },
+     {
+      "ec_productid": "5397055",
+      "ec_price": "499.0",
+      "ec_listprice": "590.0",
+      "ec_hotsale_title": "通過美商蘋果MFI 認證",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5397/st-5397055-s400.jpg",
+      "ec_starttime": "1411122360",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5397055",
+      "ec_title": "doocoo iLink iPad mini/iPhone5_MFi充電傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5397/st-5397055-s400.jpg"
+     },
+     {
+      "ec_productid": "5818180",
+      "ec_price": "499.0",
+      "ec_listprice": "999.0",
+      "ec_hotsale_title": "輕巧超過充電組 認證合格",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5818/st-5818180-s400.jpg",
+      "ec_starttime": "1428910920",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5818180",
+      "ec_title": "電池王 5V/ 2.1A雙USB快速旅充+iPHONE 4 /4S/iPad2傳輸線組合",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5818/st-5818180-s400.jpg"
+     },
+     {
+      "ec_productid": "5856641",
+      "ec_price": "499.0",
+      "ec_listprice": "899.0",
+      "ec_hotsale_title": "APPLE原廠認證",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5856/st-5856641-s400.jpg",
+      "ec_starttime": "1430134020",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5856641",
+      "ec_title": "Power4 WPL017 Apple 2米傳輸充電線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5856/st-5856641-s400.jpg"
+     },
+     {
+      "ec_productid": "4150697",
+      "ec_price": "499.0",
+      "ec_listprice": "699.0",
+      "ec_hotsale_title": "Apple原廠授權認證",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4150/st-4150697-s400.jpg",
+      "ec_starttime": "1361953020",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4150697",
+      "ec_title": "aibo iPhone 5 / iPad mini 專用 原廠認證充電傳輸線(1M)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4150/st-4150697-s400.jpg"
+     },
+     {
+      "ec_productid": "4883228",
+      "ec_price": "499.0",
+      "ec_listprice": "599.0",
+      "ec_hotsale_title": "高抗菌 ,通過國際USP抑菌測試",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4883/st-4883228-s400.jpg",
+      "ec_starttime": "1386152640",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4883228",
+      "ec_title": "iPad Mini 高清超透水晶螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4883/st-4883228-s400.jpg"
+     },
+     {
+      "ec_productid": "5655316",
+      "ec_price": "499.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高質感材料,防刮防磨損",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5655/st-5655316-s400.jpg",
+      "ec_starttime": "1421173920",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5655316",
+      "ec_title": "L80斜紋旋轉iPad Air2(iPad6)平板皮套(加贈螢幕貼)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5655/st-5655316-s400.jpg"
+     },
+     {
+      "ec_productid": "5849037",
+      "ec_price": "499.0",
+      "ec_listprice": "699.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5849/st-5849037-s400.jpg",
+      "ec_starttime": "1429872960",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5849037",
+      "ec_title": "Buffalo APPLE Lightning 專用傳輸線(蘋果認證)-1.2M",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5849/st-5849037-s400.jpg"
+     },
+     {
+      "ec_productid": "5643245",
+      "ec_price": "499.0",
+      "ec_listprice": "800.0",
+      "ec_hotsale_title": "獨家 3USB 方便充電 輕巧迷你好攜帶",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5643/st-5643245-s400.jpg",
+      "ec_starttime": "1420788660",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5643245",
+      "ec_title": "KooPin 創新款 3USB車充 5.4A高速車用充電器-iPad可充[快]",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5643/st-5643245-s400.jpg"
+     },
+     {
+      "ec_productid": "5794678",
+      "ec_price": "500.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "高效傳輸  極速充電",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5794/st-5794678-s400.jpg",
+      "ec_starttime": "1427860800",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5794678",
+      "ec_title": "iStyle 蘋果認證 Lightning 8Pin 金屬充電傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5794/st-5794678-s400.jpg"
+     },
+     {
+      "ec_productid": "5505117",
+      "ec_price": "550.0",
+      "ec_listprice": "690.0",
+      "ec_hotsale_title": "網購節下殺5折(賣場售價已折)",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5505/st-5505117-s400.jpg",
+      "ec_starttime": "1414380900",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5505117",
+      "ec_title": "Guoer Samsung Galaxy S3 smart cover 手機保護殼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5505/st-5505117-s400.jpg"
+     },
+     {
+      "ec_productid": "5688129",
+      "ec_price": "550.0",
+      "ec_listprice": "1200.0",
+      "ec_hotsale_title": "清透蜜糖 可喚醒休眠",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5688/st-5688129-s400.jpg",
+      "ec_starttime": "1422526260",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5688129",
+      "ec_title": "VXTRA iPad Air 2 / ipad 6 清透蜜糖紋 超薄三折保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5688/st-5688129-s400.jpg"
+     },
+     {
+      "ec_productid": "5752249",
+      "ec_price": "550.0",
+      "ec_listprice": "1180.0",
+      "ec_hotsale_title": "蘋果認證支援iOS8 適用MICRO",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5752/st-5752249-s400.jpg",
+      "ec_starttime": "1426153320",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5752249",
+      "ec_title": "MiniQ iPad Air2/mini3 MicroUSB二合一精緻高速傳輸充電線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5752/st-5752249-s400.jpg"
+     },
+     {
+      "ec_productid": "5688139",
+      "ec_price": "550.0",
+      "ec_listprice": "1200.0",
+      "ec_hotsale_title": "智慧休眠喚醒功能 熱賣登場",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5688/st-5688139-s400.jpg",
+      "ec_starttime": "1422526320",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5688139",
+      "ec_title": "iPad mini 3 / mini 2 直立側翻360度旋轉 休眠保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5688/st-5688139-s400.jpg"
+     },
+     {
+      "ec_productid": "5688142",
+      "ec_price": "550.0",
+      "ec_listprice": "1200.0",
+      "ec_hotsale_title": "清透蜜糖 可喚醒休眠",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5688/st-5688142-s400.jpg",
+      "ec_starttime": "1422526320",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5688142",
+      "ec_title": "VXTRA iPad mini 3 / mini 2 清透蜜糖紋 超薄三折保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5688/st-5688142-s400.jpg"
+     },
+     {
+      "ec_productid": "5688128",
+      "ec_price": "560.0",
+      "ec_listprice": "1000.0",
+      "ec_hotsale_title": "智慧喚醒休眠",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5688/st-5688128-s400.jpg",
+      "ec_starttime": "1423569600",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5688128",
+      "ec_title": "VXTRA iPad Air 2 / iPad 6 率性牛仔 超薄支架保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5688/st-5688128-s400.jpg"
+     },
+     {
+      "ec_productid": "5720937",
+      "ec_price": "580.0",
+      "ec_listprice": "990.0",
+      "ec_hotsale_title": "最佳保貼組",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5720/st-5720937-s400.jpg",
+      "ec_starttime": "1423811640",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5720937",
+      "ec_title": "iPad mini 3 最佳保貼組(鋼化玻璃螢幕貼+抗污防指紋機身背膜)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5720/st-5720937-s400.jpg"
+     },
+     {
+      "ec_productid": "4093201",
+      "ec_price": "580.0",
+      "ec_listprice": "1080.0",
+      "ec_hotsale_title": "單反 鏡頭 平板 專用",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4093/st-4093201-s400.jpg",
+      "ec_starttime": "1359424800",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4093201",
+      "ec_title": "70L COLOR WRAP 4545 彩色包布",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4093/st-4093201-s400.jpg"
+     },
+     {
+      "ec_productid": "5723247",
+      "ec_price": "588.0",
+      "ec_listprice": "1200.0",
+      "ec_hotsale_title": "iPad正品",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5723/st-5723247-s400.jpg",
+      "ec_starttime": "1423825200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5723247",
+      "ec_title": "iPad mini2/mini3/Air Lightning 8pin 原廠傳輸線(裸裝)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5723/st-5723247-s400.jpg"
+     },
+     {
+      "ec_productid": "5681854",
+      "ec_price": "589.0",
+      "ec_listprice": "850.0",
+      "ec_hotsale_title": "浮雕花紋理 高雅 別緻",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5681/st-5681854-s400.jpg",
+      "ec_starttime": "1422342360",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5681854",
+      "ec_title": "iPad Air 浪漫花(莓果紫)宮廷浮雕皮套(360度旋轉、可立、可休眠及喚醒)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5681/st-5681854-s400.jpg"
+     },
+     {
+      "ec_productid": "5715614",
+      "ec_price": "589.0",
+      "ec_listprice": "850.0",
+      "ec_hotsale_title": "浮雕花紋理 高雅 別緻",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5715/st-5715614-s400.jpg",
+      "ec_starttime": "1423551960",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5715614",
+      "ec_title": "iPad Air 浪漫花(金)宮廷浮雕皮套(360度旋轉、可立、可休眠及喚醒)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5715/st-5715614-s400.jpg"
+     },
+     {
+      "ec_productid": "5715613",
+      "ec_price": "589.0",
+      "ec_listprice": "850.0",
+      "ec_hotsale_title": "浮雕花紋理 高雅 別緻",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5715/st-5715613-s400.jpg",
+      "ec_starttime": "1423551960",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5715613",
+      "ec_title": "iPad Air 浪漫花(灰黑)宮廷浮雕皮套(360度旋轉、可立、可休眠及喚醒)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5715/st-5715613-s400.jpg"
+     },
+     {
+      "ec_productid": "5505252",
+      "ec_price": "590.0",
+      "ec_listprice": "690.0",
+      "ec_hotsale_title": "網購節下殺5折(賣場售價已折)",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5505/st-5505252-s400.jpg",
+      "ec_starttime": "1414379400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5505252",
+      "ec_title": "Guoer iPhone5/5S smart cover 前後皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5505/st-5505252-s400.jpg"
+     },
+     {
+      "ec_productid": "5752252",
+      "ec_price": "590.0",
+      "ec_listprice": "1080.0",
+      "ec_hotsale_title": "蘋果MFI認證 充電穩定保證",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5752/st-5752252-s400.jpg",
+      "ec_starttime": "1426153320",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5752252",
+      "ec_title": "CITY BOSS 蘋果認證 iPad Air2/mini3/air等 傳輸充電線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5752/st-5752252-s400.jpg"
+     },
+     {
+      "ec_productid": "5456240",
+      "ec_price": "590.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "★超值好禮加購★",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5456/st-5456240-s400.jpg",
+      "ec_starttime": "1413442920",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5456240",
+      "ec_title": "飛利浦 iPhone5 Lighting USB充電線 1M (DLC2404V)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5456/st-5456240-s400.jpg"
+     },
+     {
+      "ec_productid": "5702064",
+      "ec_price": "590.0",
+      "ec_listprice": "599.0",
+      "ec_hotsale_title": "♫ 長長久久 送2M耳機延長線",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5702/st-5702064-s400.jpg",
+      "ec_starttime": "1423679700",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5702064",
+      "ec_title": "ALTEAM我聽 AH-88m 鑽石精工設計 - 入耳式耳機",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5702/st-5702064-s400.jpg"
+     },
+     {
+      "ec_productid": "5244775",
+      "ec_price": "590.0",
+      "ec_listprice": "690.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244775-s400.jpg",
+      "ec_starttime": "1399447200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5244775",
+      "ec_title": "Adam Elements亞果元素 捲線伸縮式傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244775-s400.jpg"
+     },
+     {
+      "ec_productid": "5244774",
+      "ec_price": "590.0",
+      "ec_listprice": "690.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244774-s400.jpg",
+      "ec_starttime": "1399448880",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5244774",
+      "ec_title": "Adam Elements亞果元素 手提包收納傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244774-s400.jpg"
+     },
+     {
+      "ec_productid": "5244777",
+      "ec_price": "590.0",
+      "ec_listprice": "690.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244777-s400.jpg",
+      "ec_starttime": "1399447560",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5244777",
+      "ec_title": "Adam Elements亞果元素 Lightning可立造型傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244777-s400.jpg"
+     },
+     {
+      "ec_productid": "5804516",
+      "ec_price": "590.0",
+      "ec_listprice": "790.0",
+      "ec_hotsale_title": "完美吸附屏幕 超強吸附",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5804/st-5804516-s400.jpg",
+      "ec_starttime": "1427970360",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5804516",
+      "ec_title": "BASEUS APPLE iPad MINI 3 帕森系列多折皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5804/st-5804516-s400.jpg"
+     },
+     {
+      "ec_productid": "5752241",
+      "ec_price": "590.0",
+      "ec_listprice": "790.0",
+      "ec_hotsale_title": "可立支架 自由自在輕鬆觀看影視",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5752/st-5752241-s400.jpg",
+      "ec_starttime": "1425957660",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5752241",
+      "ec_title": "XUNDD 訊迪 APPLE iPad Air 2 哈密瓜系列可立皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5752/st-5752241-s400.jpg"
+     },
+     {
+      "ec_productid": "5752246",
+      "ec_price": "590.0",
+      "ec_listprice": "890.0",
+      "ec_hotsale_title": "三折支撐 隨心選擇最舒適角度",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5752/st-5752246-s400.jpg",
+      "ec_starttime": "1425957660",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5752246",
+      "ec_title": "I-SMILE APPLE iPad Air 2 羽系列三折側翻皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5752/st-5752246-s400.jpg"
+     },
+     {
+      "ec_productid": "5607076",
+      "ec_price": "590.0",
+      "ec_listprice": "790.0",
+      "ec_hotsale_title": "雙USB 快速為兩台裝置充電",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5607/st-5607076-s400.jpg",
+      "ec_starttime": "1420615260",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5607076",
+      "ec_title": "Innergie 15瓦雙USB快速充電器 (PowerJoy Plus)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5607/st-5607076-s400.jpg"
+     },
+     {
+      "ec_productid": "5685927",
+      "ec_price": "595.0",
+      "ec_listprice": "1200.0",
+      "ec_hotsale_title": "滑順玻璃奈米5H , 日本原膜台灣製",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5685/st-5685927-s400.jpg",
+      "ec_starttime": "1422413940",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5685927",
+      "ec_title": "D&A Apple iPad min I/II/III 電競專用玻璃奈米5H↗螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5685/st-5685927-s400.jpg"
+     },
+     {
+      "ec_productid": "5849036",
+      "ec_price": "599.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5849/st-5849036-s400.jpg",
+      "ec_starttime": "1429872960",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5849036",
+      "ec_title": "Buffalo APPLE Lightning 專用傳輸線(蘋果認證)-2M(黑)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5849/st-5849036-s400.jpg"
+     },
+     {
+      "ec_productid": "4883231",
+      "ec_price": "599.0",
+      "ec_listprice": "699.0",
+      "ec_hotsale_title": "抗眩光、防指紋",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4883/st-4883231-s400.jpg",
+      "ec_starttime": "1386152640",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4883231",
+      "ec_title": "iPad Mini 超透霧面防指紋螢幕保護貼-抗眩款",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4883/st-4883231-s400.jpg"
+     },
+     {
+      "ec_productid": "5688141",
+      "ec_price": "599.0",
+      "ec_listprice": "1000.0",
+      "ec_hotsale_title": "Bingbing超閃亮 智慧喚醒休眠",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5688/st-5688141-s400.jpg",
+      "ec_starttime": "1422526320",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5688141",
+      "ec_title": "VXTRA iPad mini 3 / mini 2 時尚鑽石紋 超薄休眠皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5688/st-5688141-s400.jpg"
+     },
+     {
+      "ec_productid": "5816430",
+      "ec_price": "599.0",
+      "ec_listprice": "799.0",
+      "ec_hotsale_title": "4合1  多功能伸縮線",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5816/st-5816430-s400.jpg",
+      "ec_starttime": "1414738260",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5816430",
+      "ec_title": "iStyle iPhone6/5/Micro 四合一多功能傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5816/st-5816430-s400.jpg"
+     },
+     {
+      "ec_productid": "5673130",
+      "ec_price": "650.0",
+      "ec_listprice": "1080.0",
+      "ec_hotsale_title": "超薄 防爆鋼化玻璃 弧面美化",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5673/st-5673130-s400.jpg",
+      "ec_starttime": "1421928060",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5673130",
+      "ec_title": "嚴選奇機膜 最新 iPad mini 3 鋼化玻璃膜 螢幕保護貼(贈保護袋)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5673/st-5673130-s400.jpg"
+     },
+     {
+      "ec_productid": "5858587",
+      "ec_price": "650.0",
+      "ec_listprice": "650.0",
+      "ec_hotsale_title": "穩定快速  專業指定",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5858/st-5858587-s400.jpg",
+      "ec_starttime": "1430452800",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5858587",
+      "ec_title": "Belkin Lightning 2.1A 1.2m 傳輸線 / 充電線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5858/st-5858587-s400.jpg"
+     },
+     {
+      "ec_productid": "5819012",
+      "ec_price": "650.0",
+      "ec_listprice": "890.0",
+      "ec_hotsale_title": "Apple MFi原廠授權認證",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5819/st-5819012-s400.jpg",
+      "ec_starttime": "1429070040",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5819012",
+      "ec_title": "Avier Apple 8pin鋅合金充電傳輸線20cm(AU8502)-銀白",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5819/st-5819012-s400.jpg"
+     },
+     {
+      "ec_productid": "5720940",
+      "ec_price": "650.0",
+      "ec_listprice": "1050.0",
+      "ec_hotsale_title": "最佳保貼組",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5720/st-5720940-s400.jpg",
+      "ec_starttime": "1423811640",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5720940",
+      "ec_title": "iPad Air 2 最佳保貼組(鋼化玻璃螢幕貼+抗污防指紋機身背膜)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5720/st-5720940-s400.jpg"
+     },
+     {
+      "ec_productid": "5400829",
+      "ec_price": "680.0",
+      "ec_listprice": "999.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5400/st-5400829-s400.jpg",
+      "ec_starttime": "1409545080",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5400829",
+      "ec_title": "GOOCHOICE 龜嚴選 iPad Air 護眼神盾 螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5400/st-5400829-s400.jpg"
+     },
+     {
+      "ec_productid": "4883233",
+      "ec_price": "680.0",
+      "ec_listprice": "680.0",
+      "ec_hotsale_title": "眼睛保護 比保護螢幕更重要!",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4883/st-4883233-s400.jpg",
+      "ec_starttime": "1415289600",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4883233",
+      "ec_title": "RetinaGuard 視網盾 iPad mini 2 眼睛防護 防藍光保護膜",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4883/st-4883233-s400.jpg"
+     },
+     {
+      "ec_productid": "5752245",
+      "ec_price": "690.0",
+      "ec_listprice": "890.0",
+      "ec_hotsale_title": "極致手感 一體成型 保護每個部位不受傷害",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5752/st-5752245-s400.jpg",
+      "ec_starttime": "1425957660",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5752245",
+      "ec_title": "XUNDD 訊迪 APPLE iPad Air 2 簡尚系列三折可立皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5752/st-5752245-s400.jpg"
+     },
+     {
+      "ec_productid": "5244780",
+      "ec_price": "690.0",
+      "ec_listprice": "790.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244780-s400.jpg",
+      "ec_starttime": "1399445280",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5244780",
+      "ec_title": "Adam Elements亞果元素 雙用傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244780-s400.jpg"
+     },
+     {
+      "ec_productid": "5725997",
+      "ec_price": "690.0",
+      "ec_listprice": "690.0",
+      "ec_hotsale_title": "日本材質 台灣製造",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5725/st-5725997-s400.jpg",
+      "ec_starttime": "1424081520",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5725997",
+      "ec_title": "more.疏水疏油APPLE IPAD MINI2/3高透光防靜電螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5725/st-5725997-s400.jpg"
+     },
+     {
+      "ec_productid": "5505363",
+      "ec_price": "690.0",
+      "ec_listprice": "690.0",
+      "ec_hotsale_title": "網購節下殺5折(賣場售價已折)",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5505/st-5505363-s400.jpg",
+      "ec_starttime": "1414386120",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5505363",
+      "ec_title": "Guoer iPhone5/5S smart cover 手機保護殼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5505/st-5505363-s400.jpg"
+     },
+     {
+      "ec_productid": "5854296",
+      "ec_price": "690.0",
+      "ec_listprice": "690.0",
+      "ec_hotsale_title": "足量電壓輸出",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5854/st-5854296-s400.jpg",
+      "ec_starttime": "1430116680",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5854296",
+      "ec_title": "Targus Lightning 充電傳輸線",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5854/st-5854296-s400.jpg"
+     },
+     {
+      "ec_productid": "5691110",
+      "ec_price": "690.0",
+      "ec_listprice": "890.0",
+      "ec_hotsale_title": "Apple 原廠 品質保證",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5691/st-5691110-s400.jpg",
+      "ec_starttime": "1429588800",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5691110",
+      "ec_title": "Apple 原廠 Lightning 對 USB 連接傳輸線-1M",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5691/st-5691110-s400.jpg"
+     },
+     {
+      "ec_productid": "5818394",
+      "ec_price": "690.0",
+      "ec_listprice": "790.0",
+      "ec_hotsale_title": "Apple專用充電傳輸線",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5818/st-5818394-s400.jpg",
+      "ec_starttime": "1428628440",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5818394",
+      "ec_title": "Avier Apple 8 Pin Lightning 傳輸線 (AU85NP) 黑-1M",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5818/st-5818394-s400.jpg"
+     },
+     {
+      "ec_productid": "5244773",
+      "ec_price": "690.0",
+      "ec_listprice": "790.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244773-s400.jpg",
+      "ec_starttime": "1399445280",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5244773",
+      "ec_title": "Adam Elements亞果元素 雙用傳輸線15cm",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5244/st-5244773-s400.jpg"
+     },
+     {
+      "ec_productid": "5881463",
+      "ec_price": "690.0",
+      "ec_listprice": "690.0",
+      "ec_hotsale_title": "經典時尚駝鳥紋",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5881/st-5881463-s400.jpg",
+      "ec_starttime": "1431089280",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5881463",
+      "ec_title": "Kajsa Ostrich for new iPad 多功能鴕鳥紋皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5881/st-5881463-s400.jpg"
+     },
+     {
+      "ec_productid": "5670062",
+      "ec_price": "690.0",
+      "ec_listprice": "890.0",
+      "ec_hotsale_title": "皮套與背蓋的完美組合",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5670/st-5670062-s400.jpg",
+      "ec_starttime": "1421823240",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5670062",
+      "ec_title": "KABOO 繽紛系列 iPad Air 2 前後蓋組合式智能超薄保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5670/st-5670062-s400.jpg"
+     },
+     {
+      "ec_productid": "5685768",
+      "ec_price": "699.0",
+      "ec_listprice": "999.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5685/st-5685768-s400.jpg",
+      "ec_starttime": "1422434280",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5685768",
+      "ec_title": "Buffalo 4.2A 大電流 USB 充電座(4port)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5685/st-5685768-s400.jpg"
+     },
+     {
+      "ec_productid": "4729494",
+      "ec_price": "699.0",
+      "ec_listprice": "699.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4729/st-4729494-s400.jpg",
+      "ec_starttime": "1417795200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4729494",
+      "ec_title": "ELEPHANT網路高音質手機/電腦雙用麥克風(IP-MIC-002)黑色",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4729/st-4729494-s400.jpg"
+     },
+     {
+      "ec_productid": "4679860",
+      "ec_price": "699.0",
+      "ec_listprice": "1088.0",
+      "ec_hotsale_title": "休眠/喚醒 三段角度站立",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4679/st-4679860-s400.jpg",
+      "ec_starttime": "1416585600",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4679860",
+      "ec_title": "i-rocks IRC14W iPad mini專用皮革保護皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4679/st-4679860-s400.jpg"
+     },
+     {
+      "ec_productid": "5035922",
+      "ec_price": "699.0",
+      "ec_listprice": "999.0",
+      "ec_hotsale_title": "★限時下殺★原價799",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5035/st-5035922-s400.jpg",
+      "ec_starttime": "1411574340",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5035922",
+      "ec_title": "Buffalo 4.2A 大電流 USB 充電座(4port)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5035/st-5035922-s400.jpg"
+     },
+     {
+      "ec_productid": "5740159",
+      "ec_price": "699.0",
+      "ec_listprice": "999.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5740/st-5740159-s400.jpg",
+      "ec_starttime": "1428724800",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5740159",
+      "ec_title": "Buffalo 4.2A 大電流 USB 充電座(4port)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5740/st-5740159-s400.jpg"
+     },
+     {
+      "ec_productid": "5638524",
+      "ec_price": "750.0",
+      "ec_listprice": "1600.0",
+      "ec_hotsale_title": "濾藍光防指紋 9H塗膜破損硬度",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5638/st-5638524-s400.jpg",
+      "ec_starttime": "1420473540",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5638524",
+      "ec_title": "D&A Apple iPad mini 1/2/3 日本9H濾藍光增豔螢幕貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5638/st-5638524-s400.jpg"
+     },
+     {
+      "ec_productid": "4902841",
+      "ec_price": "750.0",
+      "ec_listprice": "1050.0",
+      "ec_hotsale_title": "可搭配Smart Cover使用",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4902/st-4902841-s400.jpg",
+      "ec_starttime": "1388998620",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4902841",
+      "ec_title": "Simplism iPad mini Retina 背板保護殼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4902/st-4902841-s400.jpg"
+     },
+     {
+      "ec_productid": "5752238",
+      "ec_price": "750.0",
+      "ec_listprice": "950.0",
+      "ec_hotsale_title": "支架設計 釋放雙手",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5752/st-5752238-s400.jpg",
+      "ec_starttime": "1425957660",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5752238",
+      "ec_title": "BASEUS 倍思 APPLE iPad Air 2 經典圖案皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5752/st-5752238-s400.jpg"
+     },
+     {
+      "ec_productid": "5673129",
+      "ec_price": "750.0",
+      "ec_listprice": "1180.0",
+      "ec_hotsale_title": "超薄 防爆鋼化玻璃 弧面美化",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5673/st-5673129-s400.jpg",
+      "ec_starttime": "1421928060",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5673129",
+      "ec_title": "嚴選奇機膜 最新 iPad Air 2 鋼化玻璃膜 螢幕保護貼(贈保護袋)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5673/st-5673129-s400.jpg"
+     },
+     {
+      "ec_productid": "5752239",
+      "ec_price": "750.0",
+      "ec_listprice": "950.0",
+      "ec_hotsale_title": "支援休眠喚醒功能",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5752/st-5752239-s400.jpg",
+      "ec_starttime": "1425957660",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5752239",
+      "ec_title": "BASEUS APPLE iPad MINI 3 原色系列三折皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5752/st-5752239-s400.jpg"
+     },
+     {
+      "ec_productid": "4853098",
+      "ec_price": "756.0",
+      "ec_listprice": "1380.0",
+      "ec_hotsale_title": "三段式站立 磁性休眠喚醒",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4853/st-4853098-s400.jpg",
+      "ec_starttime": "1387786560",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4853098",
+      "ec_title": "i-rocks IRC24W iPad mini Retina 皮革保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4853/st-4853098-s400.jpg"
+     },
+     {
+      "ec_productid": "5845837",
+      "ec_price": "780.0",
+      "ec_listprice": "1380.0",
+      "ec_hotsale_title": "可愛英國兵皮套",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5845/st-5845837-s400.jpg",
+      "ec_starttime": "1429518240",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5845837",
+      "ec_title": "iStyle Mini1/2/3 英國兵平板皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5845/st-5845837-s400.jpg"
+     },
+     {
+      "ec_productid": "4672050",
+      "ec_price": "780.0",
+      "ec_listprice": "950.0",
+      "ec_hotsale_title": "全六色的豐富色彩可供選擇",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4672/st-4672050-s400.jpg",
+      "ec_starttime": "1376272740",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4672050",
+      "ec_title": "鐵三角 ATH-J100i iPod/iPhone/iPad耳塞式耳機",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4672/st-4672050-s400.jpg"
+     },
+     {
+      "ec_productid": "5655319",
+      "ec_price": "790.0",
+      "ec_listprice": "990.0",
+      "ec_hotsale_title": "KTV帶著走 隨時同樂歡樂唱",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5655/st-5655319-s400.jpg",
+      "ec_starttime": "1421205180",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5655319",
+      "ec_title": "隨身唱行動麥克風(Android/Apple共用版)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5655/st-5655319-s400.jpg"
+     },
+     {
+      "ec_productid": "5875149",
+      "ec_price": "790.0",
+      "ec_listprice": "790.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5875/st-5875149-s400.jpg",
+      "ec_starttime": "1430574240",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5875149",
+      "ec_title": "Adonit Jot Mini 迷你隨行觸控筆-金色",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5875/st-5875149-s400.jpg"
+     },
+     {
+      "ec_productid": "5854294",
+      "ec_price": "790.0",
+      "ec_listprice": "790.0",
+      "ec_hotsale_title": "足量電壓輸出 車充",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5854/st-5854294-s400.jpg",
+      "ec_starttime": "1430116680",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5854294",
+      "ec_title": "Targus 2.1A車充+Lightning(MFI)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5854/st-5854294-s400.jpg"
+     },
+     {
+      "ec_productid": "5877352",
+      "ec_price": "790.0",
+      "ec_listprice": "790.0",
+      "ec_hotsale_title": "超細纖維內裡",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5877/st-5877352-s400.jpg",
+      "ec_starttime": "1430985420",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5877352",
+      "ec_title": "TUNEWEAR CARBONLOOK iPad mini 1/2/3機能型皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5877/st-5877352-s400.jpg"
+     },
+     {
+      "ec_productid": "5648249",
+      "ec_price": "790.0",
+      "ec_listprice": "1090.0",
+      "ec_hotsale_title": "完美呵護 iPad Air2",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5648/st-5648249-s400.jpg",
+      "ec_starttime": "1420773480",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5648249",
+      "ec_title": "Simplism iPad Air2 超輕量側掀皮革保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5648/st-5648249-s400.jpg"
+     },
+     {
+      "ec_productid": "5654596",
+      "ec_price": "790.0",
+      "ec_listprice": "790.0",
+      "ec_hotsale_title": "手機觸控一筆搞定",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5654/st-5654596-s400.jpg",
+      "ec_starttime": "1421078400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5654596",
+      "ec_title": "Adonit Jot Mini 迷你隨行觸控筆",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5654/st-5654596-s400.jpg"
+     },
+     {
+      "ec_productid": "5684149",
+      "ec_price": "790.0",
+      "ec_listprice": "1290.0",
+      "ec_hotsale_title": "★超值好禮加購★",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5684/st-5684149-s400.jpg",
+      "ec_starttime": "1422601200",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5684149",
+      "ec_title": "PHILIPS 雙USB 2.1A車用充電組DLP2257V(含lightning傳輸線)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5684/st-5684149-s400.jpg"
+     },
+     {
+      "ec_productid": "5693033",
+      "ec_price": "790.0",
+      "ec_listprice": "1480.0",
+      "ec_hotsale_title": "特價1280",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5693/st-5693033-s400.jpg",
+      "ec_starttime": "1422526320",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5693033",
+      "ec_title": "ICARER 超纖系列 iPad Air 雙折站立 磁扣側掀 手工皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5693/st-5693033-s400.jpg"
+     },
+     {
+      "ec_productid": "5877346",
+      "ec_price": "790.0",
+      "ec_listprice": "790.0",
+      "ec_hotsale_title": "細緻皮革毛絨內裡",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5877/st-5877346-s400.jpg",
+      "ec_starttime": "1430985420",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5877346",
+      "ec_title": "TUNEWEAR TUNEFOLIO iPad mini1/2/3皮套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5877/st-5877346-s400.jpg"
+     },
+     {
+      "ec_productid": "5832082",
+      "ec_price": "790.0",
+      "ec_listprice": "790.0",
+      "ec_hotsale_title": "足量電壓輸出 車充",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5832/st-5832082-s400.jpg",
+      "ec_starttime": "1428998340",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5832082",
+      "ec_title": "Targus 2.1A車充+Lightning(MFI)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5832/st-5832082-s400.jpg"
+     },
+     {
+      "ec_productid": "5666229",
+      "ec_price": "790.0",
+      "ec_listprice": "790.0",
+      "ec_hotsale_title": "手機觸控一筆搞定",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5666/st-5666229-s400.jpg",
+      "ec_starttime": "1422417600",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5666229",
+      "ec_title": "Adonit Jot Mini 迷你隨行觸控筆",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5666/st-5666229-s400.jpg"
+     },
+     {
+      "ec_productid": "5782800",
+      "ec_price": "799.0",
+      "ec_listprice": "1280.0",
+      "ec_hotsale_title": "4USB完美充 讓你平板不斷電",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5782/st-5782800-s400.jpg",
+      "ec_starttime": "1424223720",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5782800",
+      "ec_title": "HANG iPad Air2/mini3充電線+4USB4.6A強大安規認證充電組",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5782/st-5782800-s400.jpg"
+     },
+     {
+      "ec_productid": "5727909",
+      "ec_price": "799.0",
+      "ec_listprice": "990.0",
+      "ec_hotsale_title": "",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5727/st-5727909-s400.jpg",
+      "ec_starttime": "1423621020",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5727909",
+      "ec_title": "INTOPIC 廣鼎-音樂耳機麥克風 JAZZ-M600",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5727/st-5727909-s400.jpg"
+     },
+     {
+      "ec_productid": "5881464",
+      "ec_price": "845.0",
+      "ec_listprice": "845.0",
+      "ec_hotsale_title": "榮獲2012德國reddot設計獎",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5881/st-5881464-s400.jpg",
+      "ec_starttime": "1431089280",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5881464",
+      "ec_title": "Kajsa Origami for new iPad 摺紙保護套",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5881/st-5881464-s400.jpg"
+     },
+     {
+      "ec_productid": "5807876",
+      "ec_price": "849.0",
+      "ec_listprice": "1890.0",
+      "ec_hotsale_title": "平板護眼一級棒",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5807/st-5807876-s400.jpg",
+      "ec_starttime": "1428028020",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5807876",
+      "ec_title": "X mart iPad mini3 / mini 2抗藍光0.33mm耐磨玻璃保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5807/st-5807876-s400.jpg"
+     },
+     {
+      "ec_productid": "5612792",
+      "ec_price": "850.0",
+      "ec_listprice": "1180.0",
+      "ec_hotsale_title": "360度旋轉 可站立 合身好攜帶",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5612/st-5612792-s400.jpg",
+      "ec_starttime": "1419350400",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5612792",
+      "ec_title": "iPad Air 2 可旋轉多功能皮套(可喚醒、休眠)",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5612/st-5612792-s400.jpg"
+     },
+     {
+      "ec_productid": "4902838",
+      "ec_price": "850.0",
+      "ec_listprice": "1150.0",
+      "ec_hotsale_title": "可搭配Smart Cover使用",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/4902/st-4902838-s400.jpg",
+      "ec_starttime": "1388998620",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=4902838",
+      "ec_title": "Simplism iPad mini Retina 矽膠保護套組",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/4902/st-4902838-s400.jpg"
+     },
+     {
+      "ec_productid": "5010602",
+      "ec_price": "850.0",
+      "ec_listprice": "1700.0",
+      "ec_hotsale_title": "★保護貼新世代，3C螢幕最佳防護★",
+      "ec_image": "https://tw.m.yimg.com/res/gdsale/st_pic/5010/st-5010602-s400.jpg",
+      "ec_starttime": "1394002740",
+      "ec_options": {
+       "item": "has_thumbnail"
+      },
+      "ec_property": "5",
+      "ec_item_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=5010602",
+      "ec_title": "Eyeto Apple iPad mini 專用高效率抗藍光螢幕保護貼",
+      "ec_img_uri": "https://tw.m.yimg.com/res/gdsale/st_pic/5010/st-5010602-s400.jpg"
+     }
+    ]
+   }
+  }
+ }
+}

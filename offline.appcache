@@ -1,0 +1,40 @@
+CACHE MANIFEST
+# Cache manifest version 0.0.2
+# If you change the version number in this comment,
+# the cache manifest is no longer byte-for-byte
+# identical.
+
+CACHE:
+#---------------------
+#	html
+#---------------------
+index.html
+
+#---------------------
+#	css
+#---------------------
+css/styles.css
+
+#---------------------
+#	javascript
+#---------------------
+js/jquery.min.js
+js/bootstrap.min.js
+js/plugins.js
+noise.js
+manifesto.js
+
+#---------------------
+#	data
+#---------------------
+data.json
+
+
+NETWORK:
+*
+
+FALLBACK:
+#---------------------
+#	html
+#---------------------
+offline.html
