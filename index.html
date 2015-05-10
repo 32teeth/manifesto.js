@@ -1,50 +1,76 @@
 <!doctype html>
 <html class="no-js" lang="en" manifest="offline.appcache">
 <!--<html class="no-js" lang="en">-->
-   <head>
-      <meta charset="utf-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-      <title>manifesto.js - javascript library for offline cache manifest management </title>     
-      <link rel="stylesheet" href="css/styles.css" />
-   </head>
-   <body>   
+	 <head>
+			<meta charset="utf-8" />
+			<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+			<title>manifesto.js - javascript library for offline cache manifest management </title>		 
+			<link rel="stylesheet" href="css/styles.css" />
+	 </head>
+	 <body>	 
 
-      <canvas id="noise"></canvas>
-      
-      <section class="container">
-         <div class="row white">
-            <h1>manifesto.js</h1>
-            <p>javascript library for offline cache manifest management</p>
-         </div>
+			<canvas id="noise"></canvas>
+			
+			<section class="container">
+				 <div class="row white">
+						<h1>
+							 manifesto.js
+							 <a class="btn btn-primary btn-lg pull-right" href="https://github.com/32teeth/manifesto.js" target="_blank" role="button">github</a>
+						</h1>
+						<p>javascript library for offline cache manifest management</p>
+				 </div>
 
-         <div class="row white">
-            <h2>whats it for</h2>
-            <p>manifesto.js is a application cache (appcache) management utility that allows you to view the state of the current application manifest and it's files, add callbacks to the 8 event states of the browsers appcache manager;
-            </p>
+				 <div class="row white">
+						<h2>whats it for</h2>
+						<p>manifesto.js is a application cache (appcache) management utility that allows you to view the state of the current application manifest and it's files, add callbacks to the 8 event states of the browsers appcache manager;</p>
 
-            <ul class="list-group">
-               <li class="list-group-item"><span id="checking" class="badge"></span>checking</li>
-               <li class="list-group-item"><span id="error" class="badge"></span>error</li>
-               <li class="list-group-item"><span id="noupdate" class="badge"></span>noupdate</li>
-               <li class="list-group-item"><span id="downloading" class="badge"></span>downloading</li>
-               <li class="list-group-item"><span id="progress" class="badge"></span>progress</li>
-               <li class="list-group-item"><span id="updateready" class="badge"></span>updateready</li>
-               <li class="list-group-item"><span id="cached" class="badge"></span>cached</li>
-               <li class="list-group-item"><span id="obsolete" class="badge"></span>obsolete</li>
-            </ul>
-         </div>         
-      </section>      
+						<ul class="list-group">
+							<li class="list-group-item"><span id="checking" class="badge"></span>checking</li>
+							<li class="list-group-item"><span id="error" class="badge"></span>error</li>
+							<li class="list-group-item"><span id="noupdate" class="badge"></span>noupdate</li>
+							<li class="list-group-item"><span id="downloading" class="badge"></span>downloading</li>
+							<li class="list-group-item"><span id="progress" class="badge"></span>progress</li>
+							<li class="list-group-item"><span id="updateready" class="badge"></span>updateready</li>
+							<li class="list-group-item"><span id="cached" class="badge"></span>cached</li>
+							<li class="list-group-item"><span id="obsolete" class="badge"></span>obsolete</li>
+						</ul>
 
-      <!-- noise -->
-      <script src="noise.js"></script> 
+						<p>on first load you will notice messsaging for checking, downloading, progress and updateready events.</p>
+						<p>on page reload you will have checking and no update if the manifest hasn't changed</p>
+				 </div>
+			</section>						
 
-      <!-- noise -->
-      <script src="manifesto.js"></script>       
+			<!-- jquery -->
+			<script src="js/jquery.min.js"></script>
 
-      <!-- jquery -->
-      <script src="js/jquery.min.js"></script>
+			<!-- bootstrap -->
+			<script src="js/bootstrap.min.js"></script>
 
-      <!-- bootstrap -->
-      <script src="js/bootstrap.min.js"></script>
-   </body>
+			<!-- noise -->
+			<script src="manifesto.js"></script>			 
+
+			<!-- progress -->
+			<script src="js/progress.js"></script>			 
+
+			<!-- noise -->
+			<script src="js/noise.js"></script> 
+
+			<script>
+				 /*
+				 ** callbacks
+				 */
+				 var cbfuncs = {
+						checking:progress.state,
+						error:false,
+						noupdate:progress.state,
+						downloading:progress.state,
+						progress:progress.state,
+						updateready:progress.state,
+						cached:progress.state,
+						obsolete:progress.state
+				 };
+
+				 manifesto.init(cbfuncs);			
+			</script>
+	 </body>
 </html>

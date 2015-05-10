@@ -19,10 +19,25 @@ var manifesto = (function(){
 	var cache = window.applicationCache;	
 
 	/*
-	** @param broadcaster {array}
+	** @param cbfuncs {object}
 	** @description 
 	*/	
-	var broadcaster = ["checking","error","noupdate","downloading","progress","updateready","cached","obsolete"];
+	var callbacks = {
+		checking:false,
+		error:false,
+		noupdate:false,
+		downloading:false,
+		progress:false,
+		updateready:false,
+		cached:false,
+		obsolete:false
+	};
+
+	/*
+	** @param events {array}
+	** @description 
+	*/	
+	var events = ["checking","error","noupdate","downloading","progress","updateready","cached","obsolete"];
 
 	/*
 	** @param connection {boolean}
@@ -52,14 +67,6 @@ var manifesto = (function(){
 	var response;	
 
 	/*
-	**
-	**
-	*/
-	var progress;
-	var message;
-	var status;
-
-	/*
 	** @param xhr {object}
 	** @description 
 	*/		
@@ -73,47 +80,18 @@ var manifesto = (function(){
 	** @method init
 	** @description init
 	*/			
-	function init(progress)
+	function init(cbfuncs)
 	{
-		if(progress)
+		if(cbfuncs)
 		{
-			status = true;
-			progressbar();
+			for(var cb in cbfuncs)
+			{
+				callbacks[cb] = cbfuncs[cb];
+			}
 		}
+
 		if(cache){bind();}
 		if(connection){get();}
-	}
-
-	/*
-	** @method progressbar
-	*/
-	function progressbar()
-	{
-		var id = "progress";
-		var style = {
-			"position":"fixed",
-			"bottom":"0",
-			"left":"0",
-			"top":"0",
-			"display":"block",
-			"height":"3px",
-			"width":"10%",
-			"zIndex":"9999",
-			"background":"rgba(255,0,0,1)",
-			"border":"solid 1px rgba(153,0,0,0.75)",
-			"textAlign":"right",
-			"transition":"all 100ms ease-in",
-			"fontSize":"10px"
-		}
-		progress = document.createElement('div');
-		progress.setAttribute('id', id);
-		for(var prop in style)
-		{
-			progress.style[prop] = style[prop];
-		}
-		progress.innerHTML = "checking"
-
-		document.body.appendChild(progress);
 	}
 
 	/*
@@ -122,7 +100,7 @@ var manifesto = (function(){
 	*/
 	function bind()
 	{
-		(broadcaster).forEach(function(e)
+		(events).forEach(function(e)
 	    {
 	      cache.addEventListener(e,manifesto.handler,false);
 	    }
@@ -205,8 +183,6 @@ var manifesto = (function(){
 		);
 
 		files.count = content.split("#").length;
-
-		response = content;
 	}
 
 	/*
@@ -217,32 +193,21 @@ var manifesto = (function(){
 	{
 		var phase = e.eventPhase;
 		var type = e.type;
-		console.log(type)
+
 		switch(type)
 		{
 			/*
 			** Checking for an update. Always the first event fired in the sequence.
 			*/
 			case 'checking':
-				if(status)
-				{
-					progress.innerHTML = "checking cache";
-				}
 
-				document.getElementById("checking").innerHTML = "ok";
 			break;
 
 			/*
 			** An update was found. The browser is fetching resources.
 			*/
 			case 'downloading':
-				if(status)
-				{
-					progress.style.width = "0%";
-					progress.innerHTML = "downloading files to cache";
-				}
 
-				document.getElementById("downloading").innerHTML = "ok";
 			break;
 
 			/*
@@ -257,16 +222,7 @@ var manifesto = (function(){
 			** Fired after the first download of the manifest.
 			*/
 			case 'noupdate':
-				if(status)
-				{
-					progress.innerHTML = "no updates found";
-					progress.style.width = "100%";
-					setTimeout(function(){
-						progress.parentNode.removeChild(progress);
-					},1000);
-				}
 
-				document.getElementById("noupdate").innerHTML = "ok";
 			break;
 
 			/*
@@ -274,54 +230,40 @@ var manifesto = (function(){
 			** This results in the application cache being deleted.
 			*/
 			case 'obsolete':
-				document.getElementById("noupdate").innerHTML = "ok";
+
 			break;
 
 			/*
 			** Fired for each resource listed in the manifest as it is being fetched.
 			*/
 			case 'progress':
-				if(status)
-				{
-					files.loaded++;
-					var width = Math.ceil((files.loaded/files.count)*100);
-					progress.innerHTML = "caching " + files.loaded + "/" + files.count + " files";
-					progress.style.width = width + "%";
-
-					if(width > 100){progress.parentNode.removeChild(progress);}
-				}
-
-				document.getElementById("progress").innerHTML = files.loaded + "/" + files.count;
+				files.loaded++;
 			break;
 
 			/*
 			** Fired when the manifest resources have been newly redownloaded.
 			*/
 			case 'cached':
-				if(status)
-				{
-					progress.style.width = "100%";
-					progress.innerHTML = files.loaded + "/" + files.count + " files cached";
-					setTimeout(function(){
-						progress.parentNode.removeChild(progress);
-					},1000);
-				}
 
-				document.getElementById("cached").innerHTML = files.loaded + "/" + files.count;
 			break;
 
 			case 'updateready':
 
 			break;			
+		}
+
+		console.log(type)
+
+		if((typeof callbacks[type] === 'function'))
+		{
+		  callbacks[type](type, files);
 		}		
 	}
 
 
 	return {
-		init:function(progress){init(progress);},
+		init:function(cbfuncs){init(cbfuncs);},
 		handler:function(e){handler(e);}
 	}
 })();
-
-manifesto.init(true);
 

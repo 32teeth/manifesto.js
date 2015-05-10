@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Cache manifest version 0.0.2
+# Cache manifest version 0.0.1
 # If you change the version number in this comment,
 # the cache manifest is no longer byte-for-byte
 # identical.
@@ -20,14 +20,23 @@ css/styles.css
 #---------------------
 js/jquery.min.js
 js/bootstrap.min.js
-js/plugins.js
-noise.js
+js/noise.js
+js/progress.js
 manifesto.js
+
+#---------------------
+#	fonts
+#---------------------
+fonts/bootstrap/glyphicons-halflings-regular.eot
+fonts/bootstrap/glyphicons-halflings-regular.svg
+fonts/bootstrap/glyphicons-halflings-regular.ttf
+fonts/bootstrap/glyphicons-halflings-regular.woff
+fonts/bootstrap/glyphicons-halflings-regular.woff2
 
 #---------------------
 #	data
 #---------------------
-data.json
+data/data.json
 
 
 NETWORK:
