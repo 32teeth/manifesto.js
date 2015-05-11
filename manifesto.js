@@ -17,7 +17,6 @@ var manifesto = (function(){
 	** @description 
 	*/
 	var cache = window.applicationCache;	
-
 	/*
 	** @param cbfuncs {object}
 	** @description 
@@ -64,7 +63,13 @@ var manifesto = (function(){
 	** @param response {string}
 	** @description 
 	*/	
-	var response;	
+	var response;
+
+	/*
+	** @param redirect {string}
+	** @description 
+	*/	
+	var redirect;
 
 	/*
 	** @param xhr {object}
@@ -125,9 +130,9 @@ var manifesto = (function(){
 					parse(xhr.responseText);
 				}
 			}
-			xhr.open("GET", manifest, false);			
+			xhr.open("GET", manifest, false);
 			xhr.send();
-		}		
+		}	
 	}
 
 	/*
@@ -141,48 +146,33 @@ var manifesto = (function(){
 		** NOTE: The line break here is only to prevent
 		** wrapping in the BLOG.
 		*/
-		content = content.replace(
-			new RegExp(
-				"(NETWORK|FALLBACK):" +
-				"((?!(NETWORK|FALLBACK|CACHE):)[\\w\\W]*)",
-				"gi"
-			),
-			""
-		);
+		var online = content.replace(new RegExp("(NETWORK|FALLBACK):((?!(NETWORK|FALLBACK|CACHE):)[\\w\\W]*)","gi"),"");
+		var offline = content.match(new RegExp("(FALLBACK):((?!(NETWORK|FALLBACK|CACHE):)[\\w\\W]*)(.|[\r\n])*","gim"))[0];
 
 		/*
 		** Strip out all comments.
 		*/
-		content = content.replace(
-			new RegExp(
-				"#[^\\r\\n]*(\\r\\n?|\\n)", "g" 
-			),
-			""
-		);
+		online = online.replace(new RegExp("#[^\\r\\n]*(\\r\\n?|\\n)", "g" ),"");
+		offline = offline.replace(new RegExp("#[^\\r\\n]*(\\r\\n?|\\n)", "g" ),"");
 
 		/*
 		** Strip out the cache manifest header and
 		** trailing slashes.
 		*/
-		content = content.replace(
-			new RegExp(
-				"CACHE MANIFEST\\s*|\\s*$", "g"
-			),
-			""
-		);
+		online = online.replace(new RegExp("CACHE MANIFEST\\s*|\\s*$", "g"),"");
+		offline = offline.replace(new RegExp("CACHE MANIFEST\\s*|\\s*$", "g"),"");
 
 		/*
 		** Strip out extra line breaks and replace with
 		** a hash sign that we can break on.
 		*/
-		content = content.replace(
-			new RegExp(
-				"[\\r\\n]+", "g"
-			),
-			"#"
-		);
+		online = online.replace(new RegExp("[\\r\\n]+", "g"),"#");
+		offline = offline.replace(new RegExp("[\\r\\n]+", "g"),"#");
 
-		files.count = content.split("#").length;
+		redirect = offline.split("#")[1];
+		localStorage.setItem("redirect", redirect);
+
+		files.count = online.split("#").length;
 	}
 
 	/*
@@ -215,7 +205,7 @@ var manifesto = (function(){
 			** or the manifest changed while the download was in progress.
 			*/
 			case 'error':
-
+				window.location.href = localStorage["redirect"];
 			break;
 
 			/*
@@ -251,8 +241,6 @@ var manifesto = (function(){
 
 			break;			
 		}
-
-		console.log(type)
 
 		if((typeof callbacks[type] === 'function'))
 		{

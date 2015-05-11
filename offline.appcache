@@ -9,6 +9,7 @@ CACHE:
 #	html
 #---------------------
 index.html
+offline.html
 
 #---------------------
 #	css
