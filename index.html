@@ -33,6 +33,7 @@
 							<li class="list-group-item"><span id="updateready" class="badge"></span>updateready</li>
 							<li class="list-group-item"><span id="cached" class="badge"></span>cached</li>
 							<li class="list-group-item"><span id="obsolete" class="badge"></span>obsolete</li>
+							<li class="list-group-item"><span class="btn btn-warning btn-lg" onclick="reload();return false;">reload</span></li>
 						</ul>
 
 						<p>on first load you will notice messsaging for checking, downloading, progress and updateready events.</p>
@@ -56,6 +57,11 @@
 			<script src="js/noise.js"></script> 
 
 			<script>
+				function reload()
+				{
+					window.location.reload();
+					return false;
+				}
 				 /*
 				 ** callbacks
 				 */
