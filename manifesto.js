@@ -87,6 +87,11 @@ var manifesto = (function(){
 	*/			
 	function init(cbfuncs)
 	{
+		if(!connection && localStorage["redirect"])
+		{
+			window.location.href = localStorage["redirect"];
+		}
+
 		if(cbfuncs)
 		{
 			for(var cb in cbfuncs)
