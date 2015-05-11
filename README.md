@@ -68,7 +68,7 @@ manifesto.init();
 
 
 ##example
-----------
+---
 Below is a quick screengrabs of the script running
 
 #####Caching progress in action
@@ -84,5 +84,12 @@ Below is a quick screengrabs of the script running
 view the [example](index.html) file for more information.
 or check out the [live example here](http://manifestojs.32teeth.org/)
 
+##extras
+---
+
+there are 2 extras available in this repo.
+
+* [progress bar](js/progress.js)
+* [static tv noise](js/noise.js)
 
 
