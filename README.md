@@ -17,7 +17,7 @@ javascript library for offline cache manifest management
 
 ```
 	/*
-	** @description include mutlikey.js or mutlikey.min.js
+	** @description include manifesto.js or manifesto.min.js
 	*/
 	<script src="manifesto.js"></script?;
 </body>;
